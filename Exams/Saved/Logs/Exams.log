@@ -2857,3 +2857,462 @@ LogInit: Object subsystem initialized
 [2026.02.13-19.32.06:642][881]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
 [2026.02.13-19.32.06:643][881]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
 [2026.02.13-19.32.06:644][881]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.02.13-19.34.23:060][ 92]BlueprintLog: New page: Compile BP_Door_Trigger
+[2026.02.13-19.34.23:105][ 92]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2026.02.13-19.34.35:083][804]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.BP_ThirdPersonGameMode
+[2026.02.13-19.34.35:083][804]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2026.02.13-19.34.35:084][804]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2026.02.13-19.34.43:103][280]LogWorld: UWorld::CleanupWorld for World_33, bSessionEnded=true, bCleanupResources=true
+[2026.02.13-19.34.43:104][280]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.13-19.34.43:114][280]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.BP_ThirdPersonGameMode
+[2026.02.13-19.34.43:115][280]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2026.02.13-19.34.43:115][280]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2026.02.13-19.35.29:021][559]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.02.13-19.38.25:109][785]BlueprintLog: New page: Compile BP_Door_Trigger
+[2026.02.13-19.38.25:159][785]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2026.02.13-19.38.30:896][123]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.02.13-19.38.30:907][123]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.02.13-19.38.30:907][123]PIE: New page: PIE session: M_Basic_Map (13 Φεβ 2026, 11:38:30 μ.μ.)
+[2026.02.13-19.38.30:907][123]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_M_Basic_Map
+[2026.02.13-19.38.30:909][123]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001857s)
+[2026.02.13-19.38.30:909][123]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/M_Basic_Map.M_Basic_Map to /Game/Maps/UEDPIE_0_M_Basic_Map.M_Basic_Map (0.001909s)
+[2026.02.13-19.38.30:909][123]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2026.02.13-19.38.30:909][123]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2026.02.13-19.38.30:910][123]LogAIModule: Creating AISystem for world M_Basic_Map
+[2026.02.13-19.38.30:910][123]LogPlayLevel: PIE: World Init took: (0.000902s)
+[2026.02.13-19.38.30:932][123]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2026.02.13-19.38.30:934][123]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2026.02.13-19.38.30:934][123]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.02.13-19.38.30:934][123]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.02.13-19.38.30:934][123]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.02.13-19.38.30:934][123]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.02.13-19.38.30:934][123]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.02.13-19.38.30:934][123]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2026.02.13-19.38.30:934][123]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.02.13-19.38.30:934][123]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.02.13-19.38.30:934][123]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.02.13-19.38.30:934][123]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.02.13-19.38.30:934][123]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.02.13-19.38.30:937][123]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.02.13-19.38.30:953][123]LogAudioMixer: Display: Using Audio Hardware Device LG TV SSCR2 (NVIDIA High Definition Audio)
+[2026.02.13-19.38.30:953][123]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.02.13-19.38.30:953][123]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.02.13-19.38.30:953][123]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.02.13-19.38.30:955][123]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=10
+[2026.02.13-19.38.30:955][123]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=10
+[2026.02.13-19.38.30:959][123]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=10
+[2026.02.13-19.38.30:959][123]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=10
+[2026.02.13-19.38.30:959][123]LogInit: FAudioDevice initialized with ID 10.
+[2026.02.13-19.38.30:959][123]LogAudio: Display: Audio Device (ID: 10) registered with world 'M_Basic_Map'.
+[2026.02.13-19.38.30:959][123]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 10
+[2026.02.13-19.38.31:016][123]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.13-19.38.31:016][123]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.02.13-19.38.31:018][123]LogWorld: Bringing World /Game/Maps/UEDPIE_0_M_Basic_Map.M_Basic_Map up for play (max tick rate 60) at 2026.02.13-21.38.31
+[2026.02.13-19.38.31:019][123]LogWorld: Bringing up level for play took: 0.001289
+[2026.02.13-19.38.31:025][123]LogOnline: OSS: Created online subsystem instance for: :Context_44
+[2026.02.13-19.38.31:025][123]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2026.02.13-19.38.31:033][123]PIE: Server logged in
+[2026.02.13-19.38.31:034][123]PIE: Play in editor total start time 0,127 seconds.
+[2026.02.13-19.38.31:052][123]LogViewport: Scene viewport resized to 1283x740, mode Windowed.
+[2026.02.13-19.38.32:845][206]LogBlueprintUserMessages: [BP_Door_C_1] Open Door
+[2026.02.13-19.38.35:930][368]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.13-19.38.35:930][368]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_M_Basic_Map
+[2026.02.13-19.38.35:933][368]LogSlate: Window 'Exams Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6)' being destroyed
+[2026.02.13-19.38.35:940][368]LogWorld: UWorld::CleanupWorld for M_Basic_Map, bSessionEnded=true, bCleanupResources=true
+[2026.02.13-19.38.35:941][368]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.13-19.38.35:950][368]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.02.13-19.38.35:959][368]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.13-19.38.35:994][368]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.02.13-19.38.35:994][368]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 10
+[2026.02.13-19.38.35:994][368]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2026.02.13-19.38.35:999][368]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2026.02.13-19.38.36:015][368]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2026.02.13-19.38.36:084][369]LogPlayLevel: Display: Destroying online subsystem :Context_44
+[2026.02.13-19.39.06:135][138]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2026.02.13-19.39.06:143][138]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Maps/M_Basic_Map_Auto6
+[2026.02.13-19.39.06:143][138]LogSavePackage: Moving '../../../../../../Users/Alexander/Documents/GitHub/Exams/Exams/Saved/M_Basic_Map_Auto6693109954EFB79CA10310CB01366CFB9.tmp' to '../../../../../../Users/Alexander/Documents/GitHub/Exams/Exams/Saved/Autosaves/Game/Maps/M_Basic_Map_Auto6.umap'
+[2026.02.13-19.39.06:148][138]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/M_Basic_Map' took 0.034
+[2026.02.13-19.39.06:148][138]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.034
+[2026.02.13-19.39.06:148][138]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Core/Props/BP_Door_Trigger] ([2] browsable assets)...
+[2026.02.13-19.39.06:160][138]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Core/Props/BP_Door_Trigger.BP_Door_Trigger]
+[2026.02.13-19.39.06:160][138]OBJ SavePackage: Finished generating thumbnails for package [/Game/Core/Props/BP_Door_Trigger]
+[2026.02.13-19.39.06:166][138]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Core/Props/BP_Door_Trigger_Auto6
+[2026.02.13-19.39.06:166][138]LogSavePackage: Moving '../../../../../../Users/Alexander/Documents/GitHub/Exams/Exams/Saved/BP_Door_Trigger_Auto680E13CA9415CB7AD6EAD879E96F57894.tmp' to '../../../../../../Users/Alexander/Documents/GitHub/Exams/Exams/Saved/Autosaves/Game/Core/Props/BP_Door_Trigger_Auto6.uasset'
+[2026.02.13-19.39.06:167][138]LogFileHelpers: Auto-saving content packages took 0.019
+[2026.02.13-19.41.20:115][911]BlueprintLog: New page: Compile BP_Door_Trigger
+[2026.02.13-19.41.20:168][911]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2026.02.13-19.41.22:914][ 66]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.02.13-19.41.22:924][ 66]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.02.13-19.41.22:924][ 66]PIE: New page: PIE session: M_Basic_Map (13 Φεβ 2026, 11:41:22 μ.μ.)
+[2026.02.13-19.41.22:924][ 66]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_M_Basic_Map
+[2026.02.13-19.41.22:928][ 66]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004184s)
+[2026.02.13-19.41.22:928][ 66]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/M_Basic_Map.M_Basic_Map to /Game/Maps/UEDPIE_0_M_Basic_Map.M_Basic_Map (0.004270s)
+[2026.02.13-19.41.22:928][ 66]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2026.02.13-19.41.22:929][ 66]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2026.02.13-19.41.22:929][ 66]LogAIModule: Creating AISystem for world M_Basic_Map
+[2026.02.13-19.41.22:930][ 66]LogPlayLevel: PIE: World Init took: (0.001561s)
+[2026.02.13-19.41.22:953][ 66]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2026.02.13-19.41.22:953][ 66]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2026.02.13-19.41.22:953][ 66]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.02.13-19.41.22:953][ 66]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.02.13-19.41.22:953][ 66]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.02.13-19.41.22:953][ 66]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.02.13-19.41.22:953][ 66]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.02.13-19.41.22:955][ 66]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2026.02.13-19.41.22:955][ 66]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.02.13-19.41.22:955][ 66]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.02.13-19.41.22:955][ 66]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.02.13-19.41.22:955][ 66]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.02.13-19.41.22:955][ 66]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.02.13-19.41.22:957][ 66]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.02.13-19.41.22:974][ 66]LogAudioMixer: Display: Using Audio Hardware Device LG TV SSCR2 (NVIDIA High Definition Audio)
+[2026.02.13-19.41.22:975][ 66]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.02.13-19.41.22:975][ 66]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.02.13-19.41.22:975][ 66]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.02.13-19.41.22:976][ 66]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=11
+[2026.02.13-19.41.22:976][ 66]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=11
+[2026.02.13-19.41.22:980][ 66]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=11
+[2026.02.13-19.41.22:980][ 66]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=11
+[2026.02.13-19.41.22:980][ 66]LogInit: FAudioDevice initialized with ID 11.
+[2026.02.13-19.41.22:980][ 66]LogAudio: Display: Audio Device (ID: 11) registered with world 'M_Basic_Map'.
+[2026.02.13-19.41.22:980][ 66]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 11
+[2026.02.13-19.41.23:034][ 66]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.13-19.41.23:034][ 66]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.02.13-19.41.23:037][ 66]LogWorld: Bringing World /Game/Maps/UEDPIE_0_M_Basic_Map.M_Basic_Map up for play (max tick rate 60) at 2026.02.13-21.41.23
+[2026.02.13-19.41.23:037][ 66]LogWorld: Bringing up level for play took: 0.001366
+[2026.02.13-19.41.23:040][ 66]LogOnline: OSS: Created online subsystem instance for: :Context_45
+[2026.02.13-19.41.23:041][ 66]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2026.02.13-19.41.23:050][ 66]PIE: Server logged in
+[2026.02.13-19.41.23:051][ 66]PIE: Play in editor total start time 0,128 seconds.
+[2026.02.13-19.41.23:069][ 66]LogViewport: Scene viewport resized to 1286x760, mode Windowed.
+[2026.02.13-19.41.24:707][140]LogBlueprintUserMessages: [BP_Door_C_1] Open Door
+[2026.02.13-19.41.28:527][335]LogBlueprintUserMessages: [BP_Door_C_1] Open Door
+[2026.02.13-19.41.31:351][477]LogBlueprintUserMessages: [BP_Door_C_1] Open Door
+[2026.02.13-19.41.34:364][628]LogBlueprintUserMessages: [BP_Door_C_1] Open Door
+[2026.02.13-19.41.36:224][718]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.13-19.41.36:224][718]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_M_Basic_Map
+[2026.02.13-19.41.36:226][718]LogSlate: Window 'Exams Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6)' being destroyed
+[2026.02.13-19.41.36:235][718]LogWorld: UWorld::CleanupWorld for M_Basic_Map, bSessionEnded=true, bCleanupResources=true
+[2026.02.13-19.41.36:235][718]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.13-19.41.36:243][718]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.02.13-19.41.36:253][718]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.13-19.41.36:289][718]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.02.13-19.41.36:290][718]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 11
+[2026.02.13-19.41.36:292][718]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2026.02.13-19.41.36:301][718]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2026.02.13-19.41.36:321][718]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2026.02.13-19.41.36:407][719]LogPlayLevel: Display: Destroying online subsystem :Context_45
+[2026.02.13-19.41.38:766][860]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.02.13-19.41.38:775][860]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.02.13-19.41.38:775][860]PIE: New page: PIE session: M_Basic_Map (13 Φεβ 2026, 11:41:38 μ.μ.)
+[2026.02.13-19.41.38:775][860]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_M_Basic_Map
+[2026.02.13-19.41.38:778][860]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001888s)
+[2026.02.13-19.41.38:778][860]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/M_Basic_Map.M_Basic_Map to /Game/Maps/UEDPIE_0_M_Basic_Map.M_Basic_Map (0.001933s)
+[2026.02.13-19.41.38:778][860]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2026.02.13-19.41.38:778][860]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2026.02.13-19.41.38:778][860]LogAIModule: Creating AISystem for world M_Basic_Map
+[2026.02.13-19.41.38:778][860]LogPlayLevel: PIE: World Init took: (0.000915s)
+[2026.02.13-19.41.38:801][860]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2026.02.13-19.41.38:804][860]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2026.02.13-19.41.38:804][860]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.02.13-19.41.38:804][860]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.02.13-19.41.38:804][860]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.02.13-19.41.38:804][860]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.02.13-19.41.38:804][860]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.02.13-19.41.38:804][860]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2026.02.13-19.41.38:804][860]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.02.13-19.41.38:804][860]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.02.13-19.41.38:804][860]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.02.13-19.41.38:804][860]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.02.13-19.41.38:804][860]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.02.13-19.41.38:807][860]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.02.13-19.41.38:824][860]LogAudioMixer: Display: Using Audio Hardware Device LG TV SSCR2 (NVIDIA High Definition Audio)
+[2026.02.13-19.41.38:824][860]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.02.13-19.41.38:824][860]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.02.13-19.41.38:824][860]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.02.13-19.41.38:825][860]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=12
+[2026.02.13-19.41.38:825][860]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=12
+[2026.02.13-19.41.38:828][860]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=12
+[2026.02.13-19.41.38:828][860]LogInit: FAudioDevice initialized with ID 12.
+[2026.02.13-19.41.38:828][860]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=12
+[2026.02.13-19.41.38:828][860]LogAudio: Display: Audio Device (ID: 12) registered with world 'M_Basic_Map'.
+[2026.02.13-19.41.38:828][860]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 12
+[2026.02.13-19.41.38:880][860]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.13-19.41.38:880][860]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.02.13-19.41.38:881][860]LogWorld: Bringing World /Game/Maps/UEDPIE_0_M_Basic_Map.M_Basic_Map up for play (max tick rate 60) at 2026.02.13-21.41.38
+[2026.02.13-19.41.38:882][860]LogWorld: Bringing up level for play took: 0.000814
+[2026.02.13-19.41.38:885][860]LogOnline: OSS: Created online subsystem instance for: :Context_46
+[2026.02.13-19.41.38:885][860]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2026.02.13-19.41.38:894][860]PIE: Server logged in
+[2026.02.13-19.41.38:894][860]PIE: Play in editor total start time 0,119 seconds.
+[2026.02.13-19.41.38:905][860]LogViewport: Scene viewport resized to 1289x780, mode Windowed.
+[2026.02.13-19.41.40:944][902]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.13-19.41.40:944][902]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_M_Basic_Map
+[2026.02.13-19.41.40:945][902]LogSlate: Window 'Exams Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6)' being destroyed
+[2026.02.13-19.41.40:953][902]LogWorld: UWorld::CleanupWorld for M_Basic_Map, bSessionEnded=true, bCleanupResources=true
+[2026.02.13-19.41.40:954][902]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.13-19.41.40:977][902]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.02.13-19.41.40:984][902]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.13-19.41.41:012][902]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 12
+[2026.02.13-19.41.41:012][902]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2026.02.13-19.41.41:017][902]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2026.02.13-19.41.41:041][902]LogUObjectHash: Compacting FUObjectHashTables data took   3.10ms
+[2026.02.13-19.41.41:131][903]LogPlayLevel: Display: Destroying online subsystem :Context_46
+[2026.02.13-19.41.42:890][  7]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.02.13-19.41.42:899][  7]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.02.13-19.41.42:899][  7]PIE: New page: PIE session: M_Basic_Map (13 Φεβ 2026, 11:41:42 μ.μ.)
+[2026.02.13-19.41.42:899][  7]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_M_Basic_Map
+[2026.02.13-19.41.42:902][  7]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003172s)
+[2026.02.13-19.41.42:902][  7]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/M_Basic_Map.M_Basic_Map to /Game/Maps/UEDPIE_0_M_Basic_Map.M_Basic_Map (0.003286s)
+[2026.02.13-19.41.42:902][  7]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2026.02.13-19.41.42:902][  7]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2026.02.13-19.41.42:904][  7]LogAIModule: Creating AISystem for world M_Basic_Map
+[2026.02.13-19.41.42:906][  7]LogPlayLevel: PIE: World Init took: (0.003129s)
+[2026.02.13-19.41.42:929][  7]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2026.02.13-19.41.42:930][  7]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2026.02.13-19.41.42:930][  7]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.02.13-19.41.42:930][  7]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.02.13-19.41.42:930][  7]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.02.13-19.41.42:930][  7]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.02.13-19.41.42:930][  7]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.02.13-19.41.42:930][  7]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2026.02.13-19.41.42:930][  7]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.02.13-19.41.42:930][  7]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.02.13-19.41.42:930][  7]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.02.13-19.41.42:930][  7]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.02.13-19.41.42:930][  7]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.02.13-19.41.42:931][  7]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.02.13-19.41.42:950][  7]LogAudioMixer: Display: Using Audio Hardware Device LG TV SSCR2 (NVIDIA High Definition Audio)
+[2026.02.13-19.41.42:950][  7]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.02.13-19.41.42:950][  7]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.02.13-19.41.42:950][  7]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.02.13-19.41.42:951][  7]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=13
+[2026.02.13-19.41.42:951][  7]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=13
+[2026.02.13-19.41.42:954][  7]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=13
+[2026.02.13-19.41.42:954][  7]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=13
+[2026.02.13-19.41.42:954][  7]LogInit: FAudioDevice initialized with ID 13.
+[2026.02.13-19.41.42:954][  7]LogAudio: Display: Audio Device (ID: 13) registered with world 'M_Basic_Map'.
+[2026.02.13-19.41.42:954][  7]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 13
+[2026.02.13-19.41.43:012][  7]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.13-19.41.43:012][  7]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.02.13-19.41.43:014][  7]LogWorld: Bringing World /Game/Maps/UEDPIE_0_M_Basic_Map.M_Basic_Map up for play (max tick rate 60) at 2026.02.13-21.41.43
+[2026.02.13-19.41.43:014][  7]LogWorld: Bringing up level for play took: 0.001132
+[2026.02.13-19.41.43:020][  7]LogOnline: OSS: Created online subsystem instance for: :Context_47
+[2026.02.13-19.41.43:020][  7]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2026.02.13-19.41.43:026][  7]PIE: Server logged in
+[2026.02.13-19.41.43:027][  7]PIE: Play in editor total start time 0,128 seconds.
+[2026.02.13-19.41.43:038][  7]LogViewport: Scene viewport resized to 1292x800, mode Windowed.
+[2026.02.13-19.41.44:705][ 81]LogBlueprintUserMessages: [BP_Door_C_1] Open Door
+[2026.02.13-19.41.54:334][566]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.13-19.41.54:334][566]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_M_Basic_Map
+[2026.02.13-19.41.54:335][566]LogSlate: Window 'Exams Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6)' being destroyed
+[2026.02.13-19.41.54:348][566]LogWorld: UWorld::CleanupWorld for M_Basic_Map, bSessionEnded=true, bCleanupResources=true
+[2026.02.13-19.41.54:350][566]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.13-19.41.54:362][566]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.02.13-19.41.54:370][566]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.13-19.41.54:411][566]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 13
+[2026.02.13-19.41.54:412][566]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2026.02.13-19.41.54:421][566]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2026.02.13-19.41.54:444][566]LogUObjectHash: Compacting FUObjectHashTables data took   3.00ms
+[2026.02.13-19.41.54:525][567]LogPlayLevel: Display: Destroying online subsystem :Context_47
+[2026.02.13-19.46.38:227][677]LogWindowsTextInputMethodSystem: Activated input method: Greek (Greece) - (Keyboard).
+[2026.02.13-19.46.38:227][677]LogWindowsTextInputMethodSystem: Activated input method: Greek (Greece) - (Keyboard).
+[2026.02.13-19.48.44:945][882]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.02.13-19.48.44:946][882]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.02.13-19.48.44:948][882]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.02.13-19.48.44:948][882]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.02.13-19.48.44:948][882]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.02.13-19.48.44:949][882]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.02.13-19.48.44:949][882]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.02.13-19.48.44:949][882]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.02.13-19.48.44:949][882]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.02.13-19.48.44:949][882]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.02.13-19.48.46:019][945]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.02.13-19.48.46:027][945]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.02.13-19.48.46:027][945]PIE: New page: PIE session: M_Basic_Map (13 Φεβ 2026, 11:48:46 μ.μ.)
+[2026.02.13-19.48.46:027][945]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_M_Basic_Map
+[2026.02.13-19.48.46:031][945]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003561s)
+[2026.02.13-19.48.46:031][945]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/M_Basic_Map.M_Basic_Map to /Game/Maps/UEDPIE_0_M_Basic_Map.M_Basic_Map (0.003626s)
+[2026.02.13-19.48.46:031][945]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2026.02.13-19.48.46:031][945]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2026.02.13-19.48.46:031][945]LogAIModule: Creating AISystem for world M_Basic_Map
+[2026.02.13-19.48.46:033][945]LogPlayLevel: PIE: World Init took: (0.001881s)
+[2026.02.13-19.48.46:063][945]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2026.02.13-19.48.46:065][945]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2026.02.13-19.48.46:065][945]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.02.13-19.48.46:065][945]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.02.13-19.48.46:065][945]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.02.13-19.48.46:065][945]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.02.13-19.48.46:065][945]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.02.13-19.48.46:065][945]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2026.02.13-19.48.46:065][945]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.02.13-19.48.46:065][945]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.02.13-19.48.46:066][945]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.02.13-19.48.46:066][945]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.02.13-19.48.46:066][945]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.02.13-19.48.46:069][945]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.02.13-19.48.46:087][945]LogAudioMixer: Display: Using Audio Hardware Device LG TV SSCR2 (NVIDIA High Definition Audio)
+[2026.02.13-19.48.46:087][945]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.02.13-19.48.46:087][945]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.02.13-19.48.46:087][945]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.02.13-19.48.46:088][945]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=14
+[2026.02.13-19.48.46:089][945]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=14
+[2026.02.13-19.48.46:091][945]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=14
+[2026.02.13-19.48.46:091][945]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=14
+[2026.02.13-19.48.46:091][945]LogInit: FAudioDevice initialized with ID 14.
+[2026.02.13-19.48.46:091][945]LogAudio: Display: Audio Device (ID: 14) registered with world 'M_Basic_Map'.
+[2026.02.13-19.48.46:091][945]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 14
+[2026.02.13-19.48.46:094][945]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.02.13-19.48.46:095][945]LogWorld: Bringing World /Game/Maps/UEDPIE_0_M_Basic_Map.M_Basic_Map up for play (max tick rate 60) at 2026.02.13-21.48.46
+[2026.02.13-19.48.46:095][945]LogWorld: Bringing up level for play took: 0.000798
+[2026.02.13-19.48.46:099][945]LogOnline: OSS: Created online subsystem instance for: :Context_48
+[2026.02.13-19.48.46:103][945]PIE: Server logged in
+[2026.02.13-19.48.46:104][945]PIE: Play in editor total start time 0,078 seconds.
+[2026.02.13-19.48.46:171][945]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.02.13-19.48.46:171][945]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.02.13-19.48.46:171][945]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.02.13-19.48.46:171][945]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.02.13-19.48.46:172][945]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.02.13-19.48.46:172][945]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.02.13-19.48.46:172][945]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.02.13-19.48.46:172][945]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.02.13-19.48.46:174][945]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.02.13-19.48.46:174][945]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.02.13-19.48.46:174][945]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.02.13-19.48.46:175][945]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.02.13-19.48.51:411][259]LogBlueprintUserMessages: [BP_Door_C_1] Open Door
+[2026.02.13-19.48.53:194][366]LogBlueprintUserMessages: [BP_Door_C_1] Open Door
+[2026.02.13-19.48.55:243][489]LogBlueprintUserMessages: [BP_Door_C_1] Open Door
+[2026.02.13-19.48.57:678][635]LogBlueprintUserMessages: [BP_Door_C_1] Open Door
+[2026.02.13-19.48.59:195][726]LogBlueprintUserMessages: [BP_Door_C_1] Open Door
+[2026.02.13-19.49.00:234][786]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.13-19.49.00:234][786]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_M_Basic_Map
+[2026.02.13-19.49.00:234][786]LogWorld: UWorld::CleanupWorld for M_Basic_Map, bSessionEnded=true, bCleanupResources=true
+[2026.02.13-19.49.00:234][786]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.13-19.49.00:243][786]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.02.13-19.49.00:249][786]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.13-19.49.00:270][786]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.13-19.49.00:270][786]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 14
+[2026.02.13-19.49.00:270][786]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2026.02.13-19.49.00:273][786]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2026.02.13-19.49.00:279][786]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2026.02.13-19.49.00:314][786]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.02.13-19.49.00:315][786]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.02.13-19.49.00:315][786]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.02.13-19.49.00:315][786]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.02.13-19.49.00:315][786]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.02.13-19.49.00:316][786]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.02.13-19.49.00:316][786]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.02.13-19.49.00:316][786]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.02.13-19.49.00:317][786]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.02.13-19.49.00:317][786]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.02.13-19.49.00:328][787]LogPlayLevel: Display: Destroying online subsystem :Context_48
+[2026.02.13-19.49.47:335][583]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2026.02.13-19.49.47:343][583]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Maps/M_Basic_Map_Auto7
+[2026.02.13-19.49.47:343][583]LogSavePackage: Moving '../../../../../../Users/Alexander/Documents/GitHub/Exams/Exams/Saved/M_Basic_Map_Auto72FC6D2F44A67A478A3262FB25B2E79EB.tmp' to '../../../../../../Users/Alexander/Documents/GitHub/Exams/Exams/Saved/Autosaves/Game/Maps/M_Basic_Map_Auto7.umap'
+[2026.02.13-19.49.47:346][583]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/M_Basic_Map' took 0.034
+[2026.02.13-19.49.47:346][583]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.034
+[2026.02.13-19.49.47:346][583]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Core/Props/BP_Door_Trigger] ([2] browsable assets)...
+[2026.02.13-19.49.47:356][583]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Core/Props/BP_Door_Trigger.BP_Door_Trigger]
+[2026.02.13-19.49.47:356][583]OBJ SavePackage: Finished generating thumbnails for package [/Game/Core/Props/BP_Door_Trigger]
+[2026.02.13-19.49.47:361][583]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Core/Props/BP_Door_Trigger_Auto7
+[2026.02.13-19.49.47:361][583]LogSavePackage: Moving '../../../../../../Users/Alexander/Documents/GitHub/Exams/Exams/Saved/BP_Door_Trigger_Auto7CF362EC84A05A173935BE8BB84A03BC7.tmp' to '../../../../../../Users/Alexander/Documents/GitHub/Exams/Exams/Saved/Autosaves/Game/Core/Props/BP_Door_Trigger_Auto7.uasset'
+[2026.02.13-19.49.47:363][583]LogFileHelpers: Auto-saving content packages took 0.015
+[2026.02.13-19.58.26:216][298]LogWindowsTextInputMethodSystem: Activated input method: English (United States) - (Keyboard).
+[2026.02.13-19.58.26:216][298]LogWindowsTextInputMethodSystem: Activated input method: English (United States) - (Keyboard).
+[2026.02.13-19.59.47:734][246]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2026.02.13-19.59.47:742][246]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Maps/M_Basic_Map_Auto8
+[2026.02.13-19.59.47:742][246]LogSavePackage: Moving '../../../../../../Users/Alexander/Documents/GitHub/Exams/Exams/Saved/M_Basic_Map_Auto8152D37CE4C26B02E7E8A6FAF0625CBE9.tmp' to '../../../../../../Users/Alexander/Documents/GitHub/Exams/Exams/Saved/Autosaves/Game/Maps/M_Basic_Map_Auto8.umap'
+[2026.02.13-19.59.47:746][246]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/M_Basic_Map' took 0.037
+[2026.02.13-19.59.47:746][246]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.037
+[2026.02.13-19.59.47:747][246]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Core/Props/BP_Door_Trigger] ([2] browsable assets)...
+[2026.02.13-19.59.47:758][246]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Core/Props/BP_Door_Trigger.BP_Door_Trigger]
+[2026.02.13-19.59.47:758][246]OBJ SavePackage: Finished generating thumbnails for package [/Game/Core/Props/BP_Door_Trigger]
+[2026.02.13-19.59.47:764][246]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Core/Props/BP_Door_Trigger_Auto8
+[2026.02.13-19.59.47:764][246]LogSavePackage: Moving '../../../../../../Users/Alexander/Documents/GitHub/Exams/Exams/Saved/BP_Door_Trigger_Auto8EF4C91694A07D91867C3B7A8B436D831.tmp' to '../../../../../../Users/Alexander/Documents/GitHub/Exams/Exams/Saved/Autosaves/Game/Core/Props/BP_Door_Trigger_Auto8.uasset'
+[2026.02.13-19.59.47:765][246]LogFileHelpers: Auto-saving content packages took 0.019
+[2026.02.13-19.59.48:768][306]BlueprintLog: New page: Compile BP_Door_Trigger
+[2026.02.13-19.59.48:813][306]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2026.02.13-19.59.50:893][428]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2026.02.13-19.59.50:915][428]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2026.02.13-19.59.54:243][428]LogSlate: Window 'Save Content' being destroyed
+[2026.02.13-19.59.54:260][428]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.13-19.59.54:374][428]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/M_Basic_Map" FILE="../../../../../../Users/Alexander/Documents/GitHub/Exams/Exams/Content/Maps/M_Basic_Map.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2026.02.13-19.59.54:397][428]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2026.02.13-19.59.54:404][428]LogSavePackage: Moving output files for package: /Game/Maps/M_Basic_Map
+[2026.02.13-19.59.54:404][428]LogSavePackage: Moving '../../../../../../Users/Alexander/Documents/GitHub/Exams/Exams/Saved/M_Basic_Map22438F1B4CE30053A49953B468C9A048.tmp' to '../../../../../../Users/Alexander/Documents/GitHub/Exams/Exams/Content/Maps/M_Basic_Map.umap'
+[2026.02.13-19.59.54:408][428]LogFileHelpers: Saving map 'M_Basic_Map' took 0.034
+[2026.02.13-19.59.54:426][428]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Core/Props/BP_Door_Trigger" FILE="../../../../../../Users/Alexander/Documents/GitHub/Exams/Exams/Content/Core/Props/BP_Door_Trigger.uasset" SILENT=true
+[2026.02.13-19.59.54:432][428]LogSavePackage: Moving output files for package: /Game/Core/Props/BP_Door_Trigger
+[2026.02.13-19.59.54:432][428]LogSavePackage: Moving '../../../../../../Users/Alexander/Documents/GitHub/Exams/Exams/Saved/BP_Door_TriggerE7342C4D4D7587F36AE94C8391B00BE3.tmp' to '../../../../../../Users/Alexander/Documents/GitHub/Exams/Exams/Content/Core/Props/BP_Door_Trigger.uasset'
+[2026.02.13-19.59.54:435][428]LogSavePackage: Moving output files for package: /Game/Assets-UnrealHorrorGame/Assets/Graveyard/character-digger_leg_left_PhysicsAsset
+[2026.02.13-19.59.54:435][428]LogSavePackage: Moving '../../../../../../Users/Alexander/Documents/GitHub/Exams/Exams/Saved/character-digger_leg_left_Physic08FB05CC4553A33EFF4CD9874DDC34DF.tmp' to '../../../../../../Users/Alexander/Documents/GitHub/Exams/Exams/Content/Assets-UnrealHorrorGame/Assets/Graveyard/character-digger_leg_left_PhysicsAsset.uasset'
+[2026.02.13-19.59.54:439][428]LogSavePackage: Moving output files for package: /Game/Assets-UnrealHorrorGame/Assets/Graveyard/character-digger_leg_left_Skeleton
+[2026.02.13-19.59.54:439][428]LogSavePackage: Moving '../../../../../../Users/Alexander/Documents/GitHub/Exams/Exams/Saved/character-digger_leg_left_SkeletEEBC046A4EE40EED20D21DAC7E672785.tmp' to '../../../../../../Users/Alexander/Documents/GitHub/Exams/Exams/Content/Assets-UnrealHorrorGame/Assets/Graveyard/character-digger_leg_left_Skeleton.uasset'
+[2026.02.13-19.59.54:442][428]LogSavePackage: Moving output files for package: /Game/Assets-UnrealHorrorGame/Assets/Graveyard/character-digger_leg_right_PhysicsAsset
+[2026.02.13-19.59.54:442][428]LogSavePackage: Moving '../../../../../../Users/Alexander/Documents/GitHub/Exams/Exams/Saved/character-digger_leg_right_PhysiB7CA93914AC6DBCDEE9845AC7D16D068.tmp' to '../../../../../../Users/Alexander/Documents/GitHub/Exams/Exams/Content/Assets-UnrealHorrorGame/Assets/Graveyard/character-digger_leg_right_PhysicsAsset.uasset'
+[2026.02.13-19.59.54:443][428]LogSavePackage: Moving output files for package: /Game/Assets-UnrealHorrorGame/Assets/Graveyard/character-digger_leg_right_Skeleton
+[2026.02.13-19.59.54:443][428]LogSavePackage: Moving '../../../../../../Users/Alexander/Documents/GitHub/Exams/Exams/Saved/character-digger_leg_right_Skele8B4F61B84AA4CED45C8C7585190CED06.tmp' to '../../../../../../Users/Alexander/Documents/GitHub/Exams/Exams/Content/Assets-UnrealHorrorGame/Assets/Graveyard/character-digger_leg_right_Skeleton.uasset'
+[2026.02.13-19.59.54:446][428]LogSavePackage: Moving output files for package: /Game/Assets-UnrealHorrorGame/Assets/Graveyard/character-digger_torso_PhysicsAsset
+[2026.02.13-19.59.54:446][428]LogSavePackage: Moving '../../../../../../Users/Alexander/Documents/GitHub/Exams/Exams/Saved/character-digger_torso_PhysicsAsFCCC08314BD9842F760D9AB15B9C0499.tmp' to '../../../../../../Users/Alexander/Documents/GitHub/Exams/Exams/Content/Assets-UnrealHorrorGame/Assets/Graveyard/character-digger_torso_PhysicsAsset.uasset'
+[2026.02.13-19.59.54:448][428]LogSavePackage: Moving output files for package: /Game/Assets-UnrealHorrorGame/Assets/Graveyard/character-digger_torso_Skeleton
+[2026.02.13-19.59.54:448][428]LogSavePackage: Moving '../../../../../../Users/Alexander/Documents/GitHub/Exams/Exams/Saved/character-digger_torso_Skeleton5729F00A426E7D25CBABB5A22205ECDE.tmp' to '../../../../../../Users/Alexander/Documents/GitHub/Exams/Exams/Content/Assets-UnrealHorrorGame/Assets/Graveyard/character-digger_torso_Skeleton.uasset'
+[2026.02.13-19.59.54:451][428]LogSavePackage: Moving output files for package: /Game/Assets-UnrealHorrorGame/Assets/Graveyard/character-ghost_PhysicsAsset
+[2026.02.13-19.59.54:451][428]LogSavePackage: Moving '../../../../../../Users/Alexander/Documents/GitHub/Exams/Exams/Saved/character-ghost_PhysicsAssetDEEC3F844D0F8CEE60E5E3B89F56BD72.tmp' to '../../../../../../Users/Alexander/Documents/GitHub/Exams/Exams/Content/Assets-UnrealHorrorGame/Assets/Graveyard/character-ghost_PhysicsAsset.uasset'
+[2026.02.13-19.59.54:453][428]LogSavePackage: Moving output files for package: /Game/Assets-UnrealHorrorGame/Assets/Graveyard/character-skeleton_leg_left_PhysicsAsset
+[2026.02.13-19.59.54:453][428]LogSavePackage: Moving '../../../../../../Users/Alexander/Documents/GitHub/Exams/Exams/Saved/character-skeleton_leg_left_Phys495383A141D295223A0FACAB181E8E46.tmp' to '../../../../../../Users/Alexander/Documents/GitHub/Exams/Exams/Content/Assets-UnrealHorrorGame/Assets/Graveyard/character-skeleton_leg_left_PhysicsAsset.uasset'
+[2026.02.13-19.59.54:454][428]LogSavePackage: Moving output files for package: /Game/Assets-UnrealHorrorGame/Assets/Graveyard/character-skeleton_leg_right_PhysicsAsset
+[2026.02.13-19.59.54:455][428]LogSavePackage: Moving '../../../../../../Users/Alexander/Documents/GitHub/Exams/Exams/Saved/character-skeleton_leg_right_PhyDD7384234C336C6CB310059D217EE002.tmp' to '../../../../../../Users/Alexander/Documents/GitHub/Exams/Exams/Content/Assets-UnrealHorrorGame/Assets/Graveyard/character-skeleton_leg_right_PhysicsAsset.uasset'
+[2026.02.13-19.59.54:457][428]LogSavePackage: Moving output files for package: /Game/Assets-UnrealHorrorGame/Assets/Graveyard/character-skeleton_torso_PhysicsAsset
+[2026.02.13-19.59.54:457][428]LogSavePackage: Moving '../../../../../../Users/Alexander/Documents/GitHub/Exams/Exams/Saved/character-skeleton_torso_PhysicsAE7B08EC43624CA17B6EB7BBA79B3B74.tmp' to '../../../../../../Users/Alexander/Documents/GitHub/Exams/Exams/Content/Assets-UnrealHorrorGame/Assets/Graveyard/character-skeleton_torso_PhysicsAsset.uasset'
+[2026.02.13-19.59.54:460][428]LogSavePackage: Moving output files for package: /Game/Assets-UnrealHorrorGame/Assets/Graveyard/colormap
+[2026.02.13-19.59.54:460][428]LogSavePackage: Moving '../../../../../../Users/Alexander/Documents/GitHub/Exams/Exams/Saved/colormap16A6E16045BB248F1BD0699CDA4FC950.tmp' to '../../../../../../Users/Alexander/Documents/GitHub/Exams/Exams/Content/Assets-UnrealHorrorGame/Assets/Graveyard/colormap.uasset'
+[2026.02.13-19.59.54:474][428]LogSavePackage: Moving output files for package: /Game/Assets-UnrealHorrorGame/Assets/Graveyard/colormap_ncl1_1
+[2026.02.13-19.59.54:475][428]LogSavePackage: Moving '../../../../../../Users/Alexander/Documents/GitHub/Exams/Exams/Saved/colormap_ncl1_1A6113D7A4B3EA5DE563416B2DBDBD8A6.tmp' to '../../../../../../Users/Alexander/Documents/GitHub/Exams/Exams/Content/Assets-UnrealHorrorGame/Assets/Graveyard/colormap_ncl1_1.uasset'
+[2026.02.13-19.59.54:491][428]LogFileHelpers: InternalPromptForCheckoutAndSave took 230 ms (total: 1.64 sec)
+[2026.02.13-19.59.54:499][428]AssetCheck: New page: Asset Save: multiple assets
+[2026.02.13-19.59.54:499][428]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Core/Props/BP_Door_Trigger.BP_Door_Trigger
+[2026.02.13-19.59.54:499][428]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/M_Basic_Map.M_Basic_Map
+[2026.02.13-19.59.54:499][428]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Assets-UnrealHorrorGame/Assets/Graveyard/colormap_ncl1_1.colormap_ncl1_1
+[2026.02.13-19.59.54:499][428]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Assets-UnrealHorrorGame/Assets/Graveyard/colormap.colormap
+[2026.02.13-19.59.54:499][428]LogContentValidation: Display: Validating /Script/Engine.Skeleton /Game/Assets-UnrealHorrorGame/Assets/Graveyard/character-digger_leg_left_Skeleton.character-digger_leg_left_Skeleton
+[2026.02.13-19.59.54:499][428]LogContentValidation: Display: Validating /Script/Engine.PhysicsAsset /Game/Assets-UnrealHorrorGame/Assets/Graveyard/character-digger_leg_left_PhysicsAsset.character-digger_leg_left_PhysicsAsset
+[2026.02.13-19.59.54:499][428]LogContentValidation: Display: Validating /Script/Engine.Skeleton /Game/Assets-UnrealHorrorGame/Assets/Graveyard/character-digger_leg_right_Skeleton.character-digger_leg_right_Skeleton
+[2026.02.13-19.59.54:499][428]LogContentValidation: Display: Validating /Script/Engine.PhysicsAsset /Game/Assets-UnrealHorrorGame/Assets/Graveyard/character-digger_leg_right_PhysicsAsset.character-digger_leg_right_PhysicsAsset
+[2026.02.13-19.59.54:499][428]LogContentValidation: Display: Validating /Script/Engine.Skeleton /Game/Assets-UnrealHorrorGame/Assets/Graveyard/character-digger_torso_Skeleton.character-digger_torso_Skeleton
+[2026.02.13-19.59.54:499][428]LogContentValidation: Display: Validating /Script/Engine.PhysicsAsset /Game/Assets-UnrealHorrorGame/Assets/Graveyard/character-digger_torso_PhysicsAsset.character-digger_torso_PhysicsAsset
+[2026.02.13-19.59.54:499][428]LogContentValidation: Display: Validating /Script/Engine.PhysicsAsset /Game/Assets-UnrealHorrorGame/Assets/Graveyard/character-ghost_PhysicsAsset.character-ghost_PhysicsAsset
+[2026.02.13-19.59.54:499][428]LogContentValidation: Display: Validating /Script/Engine.PhysicsAsset /Game/Assets-UnrealHorrorGame/Assets/Graveyard/character-skeleton_leg_left_PhysicsAsset.character-skeleton_leg_left_PhysicsAsset
+[2026.02.13-19.59.54:499][428]LogContentValidation: Display: Validating /Script/Engine.PhysicsAsset /Game/Assets-UnrealHorrorGame/Assets/Graveyard/character-skeleton_leg_right_PhysicsAsset.character-skeleton_leg_right_PhysicsAsset
+[2026.02.13-19.59.54:499][428]LogContentValidation: Display: Validating /Script/Engine.PhysicsAsset /Game/Assets-UnrealHorrorGame/Assets/Graveyard/character-skeleton_torso_PhysicsAsset.character-skeleton_torso_PhysicsAsset
+[2026.02.13-20.00.40:349][149]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2026.02.13-20.00.44:306][149]LogSlate: Window 'Delete Assets' being destroyed
+[2026.02.13-20.00.44:383][149]LogUObjectGlobals: Force Deleting 37 Package(s):
+	Asset Name: /Game/Assets-UnrealHorrorGame/Assets/Graveyard/brick-wall-curve-small.brick-wall-curve-small
+	Asset Type: StaticMesh
+	Asset Name: /Game/Assets-UnrealHorrorGame/Assets/Graveyard/brick-wall-end.brick-wall-end
+	Asset Type: StaticMesh
+	Asset Name: /Game/Assets-UnrealHorrorGame/Assets/Graveyard/brick-wall-curve.brick-wall-curve
+	Asset Type: StaticMesh
+	Asset Name: /Game/Assets-UnrealHorrorGame/Assets/Graveyard/border-pillar.border-pillar
+	Asset Type: StaticMesh
+	Asset Name: /Game/Assets-UnrealHorrorGame/Assets/Graveyard/bench.bench
+	Asset Type: StaticMesh
+	Asset Name: /Game/Assets-UnrealHorrorGame/Assets/Graveyard/bench-damaged.bench-damaged
+	Asset Type: StaticMesh
+	Asset Name: /Game/Assets-UnrealHorrorGame/Assets/Graveyard/altar-wood.altar-wood
+	Asset Type: StaticMesh
+	Asset Name: /Game/Assets-UnrealHorrorGame/Assets/Graveyard/colormap_ncl1_1.colormap_ncl1_1
+	Asset Type: Texture2D
+	Asset Name: /Game/Assets-UnrealHorrorGame/Assets/Graveyard/colormap.colormap
+	Asset Type: Material
+	Asset Name: /Game/Assets-UnrealHorrorGame/Assets/Graveyard/altar-stone.altar-stone
+	Asset Type: StaticMesh
+[2026.02.13-20.00.44:630][149]LogMaterial: Warning: [AssetLog] C:\Users\Alexander\Documents\GitHub\Exams\Exams\Content\Assets-UnrealHorrorGame\Assets\Graveyard\colormap.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2026.02.13-20.00.45:545][149]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2026.02.13-20.00.45:569][149]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2026.02.13-20.00.45:590][149]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2026.02.13-20.00.55:754][747]Cmd: TRANSACTION UNDO
+[2026.02.13-20.00.55:754][747]LogEditorTransaction: Undo Move Node
