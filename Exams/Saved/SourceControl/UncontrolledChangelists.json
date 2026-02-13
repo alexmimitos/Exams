@@ -5,7 +5,30 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/Alexander/Documents/GitHub/Exams/Exams/Content/Maps/M_Basic_Map.umap"
+				"C:/Users/Alexander/Documents/GitHub/Exams/Exams/Content/Maps/M_Basic_Map.umap",
+				"C:/Users/Alexander/Documents/GitHub/Exams/Exams/Content/Core/Props/BP_Door.uasset",
+				"C:/Users/Alexander/Documents/GitHub/Exams/Exams/Content/Core/Props/BP_Door_Trigger.uasset",
+				"C:/Users/Alexander/Documents/GitHub/Exams/Exams/Content/Assets-UnrealHorrorGame/Assets/Audio/Enemy_approaching.uasset",
+				"C:/Users/Alexander/Documents/GitHub/Exams/Exams/Content/Assets-UnrealHorrorGame/Assets/Audio/FlashlightButton.uasset",
+				"C:/Users/Alexander/Documents/GitHub/Exams/Exams/Content/Assets-UnrealHorrorGame/Assets/Audio/Heart_beat_low.uasset",
+				"C:/Users/Alexander/Documents/GitHub/Exams/Exams/Content/Assets-UnrealHorrorGame/Assets/Audio/Heart_beat.uasset",
+				"C:/Users/Alexander/Documents/GitHub/Exams/Exams/Content/Assets-UnrealHorrorGame/Assets/Audio/Horror_sting.uasset",
+				"C:/Users/Alexander/Documents/GitHub/Exams/Exams/Content/Assets-UnrealHorrorGame/Assets/Audio/Pick_Up.uasset",
+				"C:/Users/Alexander/Documents/GitHub/Exams/Exams/Content/Assets-UnrealHorrorGame/Assets/Audio/Win.uasset",
+				"C:/Users/Alexander/Documents/GitHub/Exams/Exams/Content/Assets-UnrealHorrorGame/Assets/Graveyard/altar-stone.uasset",
+				"C:/Users/Alexander/Documents/GitHub/Exams/Exams/Content/Assets-UnrealHorrorGame/Assets/Graveyard/altar-wood.uasset",
+				"C:/Users/Alexander/Documents/GitHub/Exams/Exams/Content/Assets-UnrealHorrorGame/Assets/Graveyard/bench-damaged.uasset",
+				"C:/Users/Alexander/Documents/GitHub/Exams/Exams/Content/Assets-UnrealHorrorGame/Assets/Graveyard/bench.uasset",
+				"C:/Users/Alexander/Documents/GitHub/Exams/Exams/Content/Assets-UnrealHorrorGame/Assets/Graveyard/border-pillar.uasset",
+				"C:/Users/Alexander/Documents/GitHub/Exams/Exams/Content/Assets-UnrealHorrorGame/Assets/Graveyard/brick-wall-curve-small.uasset",
+				"C:/Users/Alexander/Documents/GitHub/Exams/Exams/Content/Assets-UnrealHorrorGame/Assets/Graveyard/brick-wall-curve.uasset",
+				"C:/Users/Alexander/Documents/GitHub/Exams/Exams/Content/Assets-UnrealHorrorGame/Assets/Graveyard/brick-wall-end.uasset",
+				"C:/Users/Alexander/Documents/GitHub/Exams/Exams/Content/Assets-UnrealHorrorGame/Assets/Graveyard/brick-wall.uasset",
+				"C:/Users/Alexander/Documents/GitHub/Exams/Exams/Content/Assets-UnrealHorrorGame/Assets/Graveyard/candle-multiple.uasset",
+				"C:/Users/Alexander/Documents/GitHub/Exams/Exams/Content/Assets-UnrealHorrorGame/Assets/Graveyard/candle.uasset",
+				"C:/Users/Alexander/Documents/GitHub/Exams/Exams/Content/Assets-UnrealHorrorGame/Assets/Graveyard/character-digger.uasset",
+				"C:/Users/Alexander/Documents/GitHub/Exams/Exams/Content/Assets-UnrealHorrorGame/Assets/Graveyard/character-ghost.uasset",
+				"C:/Users/Alexander/Documents/GitHub/Exams/Exams/Content/Assets-UnrealHorrorGame/Assets/Graveyard/character-skeleton.uasset"
 			]
 		}
 	]
