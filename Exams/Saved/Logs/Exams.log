@@ -3080,3 +3080,563 @@ LogConfig: CVar [[LogNamedEventFilters:Frame *]] deferred - dummy variable creat
 [2026.02.13-21.00.13:414][842]LogViewport: Scene viewport resized to 1646x1021, mode Windowed.
 [2026.02.13-21.00.13:431][843]LogViewport: Scene viewport resized to 1646x1014, mode Windowed.
 [2026.02.13-21.00.13:446][844]LogViewport: Scene viewport resized to 1646x1010, mode Windowed.
+[2026.02.13-21.05.14:036][103]LogDerivedDataCache: C:/Users/Alexander/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:16.057 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 8308 files in 10205 folders with total size 605 MiB.
+[2026.02.13-21.05.54:048][917]BlueprintLog: New page: Compile BP_Door_LineTrace
+[2026.02.13-21.05.54:085][917]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2026.02.13-21.06.58:187][734]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2026.02.13-21.06.58:196][734]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Maps/M_Basic_Map_Auto4
+[2026.02.13-21.06.58:196][734]LogSavePackage: Moving '../../../../../../Users/Alexander/Documents/GitHub/Exams/Exams/Saved/M_Basic_Map_Auto4FDB8C4BD4467A9E0E87462BEAF46D9C6.tmp' to '../../../../../../Users/Alexander/Documents/GitHub/Exams/Exams/Saved/Autosaves/Game/Maps/M_Basic_Map_Auto4.umap'
+[2026.02.13-21.06.58:200][734]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/M_Basic_Map' took 0.033
+[2026.02.13-21.06.58:200][734]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.033
+[2026.02.13-21.06.58:200][734]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Core/Props/BP_Door_Trigger] ([2] browsable assets)...
+[2026.02.13-21.06.58:208][734]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Core/Props/BP_Door_Trigger.BP_Door_Trigger]
+[2026.02.13-21.06.58:208][734]OBJ SavePackage: Finished generating thumbnails for package [/Game/Core/Props/BP_Door_Trigger]
+[2026.02.13-21.06.58:213][734]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Core/Props/BP_Door_Trigger_Auto4
+[2026.02.13-21.06.58:213][734]LogSavePackage: Moving '../../../../../../Users/Alexander/Documents/GitHub/Exams/Exams/Saved/BP_Door_Trigger_Auto48270C8F7464C21B56C40D395D6818572.tmp' to '../../../../../../Users/Alexander/Documents/GitHub/Exams/Exams/Saved/Autosaves/Game/Core/Props/BP_Door_Trigger_Auto4.uasset'
+[2026.02.13-21.06.58:215][734]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Core/Props/BP_Door_LineTrace] ([2] browsable assets)...
+[2026.02.13-21.06.58:215][734]OBJ SavePackage: Finished generating thumbnails for package [/Game/Core/Props/BP_Door_LineTrace]
+[2026.02.13-21.06.58:218][734]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Core/Props/BP_Door_LineTrace_Auto4
+[2026.02.13-21.06.58:218][734]LogSavePackage: Moving '../../../../../../Users/Alexander/Documents/GitHub/Exams/Exams/Saved/BP_Door_LineTrace_Auto442694BF34D1133E3AD0018862904AFB0.tmp' to '../../../../../../Users/Alexander/Documents/GitHub/Exams/Exams/Saved/Autosaves/Game/Core/Props/BP_Door_LineTrace_Auto4.uasset'
+[2026.02.13-21.06.58:219][734]LogFileHelpers: Auto-saving content packages took 0.018
+[2026.02.13-21.07.58:404][332]LogSlate: Took 0.011556 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2026.02.13-21.08.38:174][677]BlueprintLog: New page: Compile BP_Door_LineTrace
+[2026.02.13-21.08.38:210][677]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2026.02.13-21.09.01:746][ 86]BlueprintLog: New page: Compile BP_Door_LineTrace
+[2026.02.13-21.09.01:782][ 86]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2026.02.13-21.09.24:025][400]BlueprintLog: New page: Compile BP_Door_LineTrace
+[2026.02.13-21.09.24:061][400]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2026.02.13-21.09.31:791][860]BlueprintLog: New page: Compile BP_Door_LineTrace
+[2026.02.13-21.09.31:825][860]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2026.02.13-21.13.46:605][ 93]BlueprintLog: New page: Compile BP_Door_LineTrace
+[2026.02.13-21.13.46:645][ 93]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2026.02.13-21.16.27:906][178]LogWindowsTextInputMethodSystem: Activated input method: Greek (Greece) - (Keyboard).
+[2026.02.13-21.16.27:906][178]LogWindowsTextInputMethodSystem: Activated input method: Greek (Greece) - (Keyboard).
+[2026.02.13-21.16.50:705][529]LogWindowsTextInputMethodSystem: Activated input method: English (United States) - (Keyboard).
+[2026.02.13-21.16.50:705][529]LogWindowsTextInputMethodSystem: Activated input method: English (United States) - (Keyboard).
+[2026.02.13-21.17.16:637][ 67]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2026.02.13-21.17.16:638][ 67]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/M_Basic_Map' took 0.022
+[2026.02.13-21.17.16:639][ 67]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Core/Props/BP_Door_LineTrace] ([2] browsable assets)...
+[2026.02.13-21.17.16:639][ 67]OBJ SavePackage: Finished generating thumbnails for package [/Game/Core/Props/BP_Door_LineTrace]
+[2026.02.13-21.17.16:643][ 67]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Core/Props/BP_Door_LineTrace_Auto5
+[2026.02.13-21.17.16:643][ 67]LogSavePackage: Moving '../../../../../../Users/Alexander/Documents/GitHub/Exams/Exams/Saved/BP_Door_LineTrace_Auto53A614A7143D0B6236F039BA4CBB97970.tmp' to '../../../../../../Users/Alexander/Documents/GitHub/Exams/Exams/Saved/Autosaves/Game/Core/Props/BP_Door_LineTrace_Auto5.uasset'
+[2026.02.13-21.17.16:643][ 67]LogFileHelpers: Auto-saving content packages took 0.004
+[2026.02.13-21.20.59:729][421]BlueprintLog: New page: Compile BP_Door_LineTrace
+[2026.02.13-21.20.59:768][421]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2026.02.13-21.21.20:913][853]LogEditorTransaction: Undo Remove Variable
+[2026.02.13-21.21.21:431][872]LogEditorTransaction: Undo Add Variable
+[2026.02.13-21.21.21:868][897]LogEditorTransaction: Undo Add new track
+[2026.02.13-21.21.22:682][945]LogEditorTransaction: Undo Move Node
+[2026.02.13-21.21.31:833][489]BlueprintLog: New page: Compile BP_Door_LineTrace
+[2026.02.13-21.21.31:871][489]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2026.02.13-21.26.57:975][660]LogWindowsTextInputMethodSystem: Activated input method: Greek (Greece) - (Keyboard).
+[2026.02.13-21.26.57:975][660]LogWindowsTextInputMethodSystem: Activated input method: Greek (Greece) - (Keyboard).
+[2026.02.13-21.26.58:088][662]BlueprintLog: New page: Compile BP_Door_LineTrace
+[2026.02.13-21.26.58:131][662]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2026.02.13-21.27.00:909][828]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.02.13-21.27.00:916][828]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.02.13-21.27.00:916][828]PIE: New page: PIE session: M_Basic_Map (14 Φεβ 2026, 1:27:00 π.μ.)
+[2026.02.13-21.27.00:916][828]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_M_Basic_Map
+[2026.02.13-21.27.00:918][828]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002165s)
+[2026.02.13-21.27.00:918][828]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/M_Basic_Map.M_Basic_Map to /Game/Maps/UEDPIE_0_M_Basic_Map.M_Basic_Map (0.002207s)
+[2026.02.13-21.27.00:918][828]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2026.02.13-21.27.00:918][828]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2026.02.13-21.27.00:919][828]LogAIModule: Creating AISystem for world M_Basic_Map
+[2026.02.13-21.27.00:919][828]LogPlayLevel: PIE: World Init took: (0.000919s)
+[2026.02.13-21.27.00:940][828]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2026.02.13-21.27.00:942][828]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2026.02.13-21.27.00:942][828]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.02.13-21.27.00:942][828]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.02.13-21.27.00:942][828]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.02.13-21.27.00:942][828]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.02.13-21.27.00:942][828]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.02.13-21.27.00:942][828]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2026.02.13-21.27.00:942][828]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.02.13-21.27.00:942][828]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.02.13-21.27.00:942][828]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.02.13-21.27.00:942][828]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.02.13-21.27.00:942][828]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.02.13-21.27.00:946][828]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.02.13-21.27.00:964][828]LogAudioMixer: Display: Using Audio Hardware Device LG TV SSCR2 (NVIDIA High Definition Audio)
+[2026.02.13-21.27.00:964][828]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.02.13-21.27.00:964][828]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.02.13-21.27.00:964][828]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.02.13-21.27.00:965][828]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=7
+[2026.02.13-21.27.00:965][828]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=7
+[2026.02.13-21.27.00:967][828]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2026.02.13-21.27.00:967][828]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=7
+[2026.02.13-21.27.00:967][828]LogInit: FAudioDevice initialized with ID 7.
+[2026.02.13-21.27.00:967][828]LogAudio: Display: Audio Device (ID: 7) registered with world 'M_Basic_Map'.
+[2026.02.13-21.27.00:967][828]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 7
+[2026.02.13-21.27.01:014][828]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.13-21.27.01:014][828]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.02.13-21.27.01:015][828]LogWorld: Bringing World /Game/Maps/UEDPIE_0_M_Basic_Map.M_Basic_Map up for play (max tick rate 60) at 2026.02.13-23.27.01
+[2026.02.13-21.27.01:016][828]LogWorld: Bringing up level for play took: 0.001348
+[2026.02.13-21.27.01:018][828]LogOnline: OSS: Created online subsystem instance for: :Context_22
+[2026.02.13-21.27.01:018][828]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2026.02.13-21.27.01:025][828]PIE: Server logged in
+[2026.02.13-21.27.01:026][828]PIE: Play in editor total start time 0,113 seconds.
+[2026.02.13-21.27.01:037][828]LogViewport: Scene viewport resized to 1295x820, mode Windowed.
+[2026.02.13-21.27.02:205][892]LogBlueprintUserMessages: [BP_Door_C_1] Open Door
+[2026.02.13-21.27.03:455][967]LogBlueprintUserMessages: [BP_Door_C_1] Open Door
+[2026.02.13-21.27.06:222][133]LogBlueprintUserMessages: [BP_Door_C_1] Open Door
+[2026.02.13-21.27.09:842][348]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.13-21.27.09:842][348]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_M_Basic_Map
+[2026.02.13-21.27.09:843][348]LogSlate: Window 'Exams Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6)' being destroyed
+[2026.02.13-21.27.09:850][348]LogWorld: UWorld::CleanupWorld for M_Basic_Map, bSessionEnded=true, bCleanupResources=true
+[2026.02.13-21.27.09:850][348]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.13-21.27.09:859][348]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.02.13-21.27.09:863][348]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.13-21.27.09:888][348]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.02.13-21.27.09:888][348]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 7
+[2026.02.13-21.27.09:888][348]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2026.02.13-21.27.09:891][348]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2026.02.13-21.27.09:899][348]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2026.02.13-21.27.09:926][349]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2026.02.13-21.27.11:197][425]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.02.13-21.27.11:199][425]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.02.13-21.27.11:199][425]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.02.13-21.27.11:199][425]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.02.13-21.27.11:199][425]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.02.13-21.27.11:199][425]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.02.13-21.27.11:199][425]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.02.13-21.27.11:200][425]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.02.13-21.27.11:200][425]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.02.13-21.27.11:201][425]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.02.13-21.27.11:201][425]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.02.13-21.27.11:202][425]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.02.13-21.27.20:712][987]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Core/Props/BP_Door_LineTrace.BP_Door_LineTrace_C
+[2026.02.13-21.27.20:712][987]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Core/Props/BP_Door_LineTrace.BP_Door_LineTrace_C
+[2026.02.13-21.27.20:713][987]LogActorFactory: Actor Factory spawned Blueprint /Game/Core/Props/BP_Door_LineTrace.BP_Door_LineTrace as actor: BP_Door_LineTrace_C /Game/Maps/M_Basic_Map.M_Basic_Map:PersistentLevel.BP_Door_LineTrace_C_0
+[2026.02.13-21.27.20:714][987]LogActorFactory: Actor Factory spawned Blueprint /Game/Core/Props/BP_Door_LineTrace.BP_Door_LineTrace as actor: BP_Door_LineTrace_C /Game/Maps/M_Basic_Map.M_Basic_Map:PersistentLevel.BP_Door_LineTrace_C_0
+[2026.02.13-21.27.21:866][ 55]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Core/Props/BP_Door_LineTrace.BP_Door_LineTrace_C
+[2026.02.13-21.27.21:866][ 55]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Core/Props/BP_Door_LineTrace.BP_Door_LineTrace_C
+[2026.02.13-21.27.21:868][ 55]LogActorFactory: Actor Factory spawned Blueprint /Game/Core/Props/BP_Door_LineTrace.BP_Door_LineTrace as actor: BP_Door_LineTrace_C /Game/Maps/M_Basic_Map.M_Basic_Map:PersistentLevel.BP_Door_LineTrace_C_1
+[2026.02.13-21.27.21:869][ 55]LogActorFactory: Actor Factory spawned Blueprint /Game/Core/Props/BP_Door_LineTrace.BP_Door_LineTrace as actor: BP_Door_LineTrace_C /Game/Maps/M_Basic_Map.M_Basic_Map:PersistentLevel.BP_Door_LineTrace_C_1
+[2026.02.13-21.27.21:883][ 55]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.02.13-21.27.21:883][ 55]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.02.13-21.27.21:883][ 55]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.02.13-21.27.21:884][ 55]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.02.13-21.27.21:884][ 55]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.02.13-21.27.21:884][ 55]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.02.13-21.27.21:885][ 55]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.02.13-21.27.21:885][ 55]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.02.13-21.27.21:886][ 55]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.02.13-21.27.21:886][ 55]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.02.13-21.27.21:887][ 55]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.02.13-21.27.35:811][887]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.02.13-21.27.35:819][887]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.02.13-21.27.35:819][887]PIE: New page: PIE session: M_Basic_Map (14 Φεβ 2026, 1:27:35 π.μ.)
+[2026.02.13-21.27.35:842][887]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_M_Basic_Map
+[2026.02.13-21.27.35:845][887]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002739s)
+[2026.02.13-21.27.35:845][887]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/M_Basic_Map.M_Basic_Map to /Game/Maps/UEDPIE_0_M_Basic_Map.M_Basic_Map (0.002784s)
+[2026.02.13-21.27.35:845][887]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2026.02.13-21.27.35:845][887]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2026.02.13-21.27.35:845][887]LogAIModule: Creating AISystem for world M_Basic_Map
+[2026.02.13-21.27.35:845][887]LogPlayLevel: PIE: World Init took: (0.000766s)
+[2026.02.13-21.27.35:869][887]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2026.02.13-21.27.35:872][887]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2026.02.13-21.27.35:872][887]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.02.13-21.27.35:872][887]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.02.13-21.27.35:872][887]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.02.13-21.27.35:872][887]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.02.13-21.27.35:872][887]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.02.13-21.27.35:872][887]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2026.02.13-21.27.35:872][887]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.02.13-21.27.35:872][887]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.02.13-21.27.35:873][887]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.02.13-21.27.35:873][887]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.02.13-21.27.35:873][887]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.02.13-21.27.35:875][887]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.02.13-21.27.35:889][887]LogAudioMixer: Display: Using Audio Hardware Device LG TV SSCR2 (NVIDIA High Definition Audio)
+[2026.02.13-21.27.35:890][887]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.02.13-21.27.35:890][887]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.02.13-21.27.35:890][887]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.02.13-21.27.35:890][887]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=8
+[2026.02.13-21.27.35:891][887]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=8
+[2026.02.13-21.27.35:892][887]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=8
+[2026.02.13-21.27.35:892][887]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=8
+[2026.02.13-21.27.35:892][887]LogInit: FAudioDevice initialized with ID 8.
+[2026.02.13-21.27.35:892][887]LogAudio: Display: Audio Device (ID: 8) registered with world 'M_Basic_Map'.
+[2026.02.13-21.27.35:892][887]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 8
+[2026.02.13-21.27.35:896][887]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.02.13-21.27.35:897][887]LogWorld: Bringing World /Game/Maps/UEDPIE_0_M_Basic_Map.M_Basic_Map up for play (max tick rate 60) at 2026.02.13-23.27.35
+[2026.02.13-21.27.35:897][887]LogWorld: Bringing up level for play took: 0.001039
+[2026.02.13-21.27.35:900][887]LogOnline: OSS: Created online subsystem instance for: :Context_23
+[2026.02.13-21.27.35:904][887]PIE: Server logged in
+[2026.02.13-21.27.35:905][887]PIE: Play in editor total start time 0,089 seconds.
+[2026.02.13-21.27.35:958][887]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.02.13-21.27.35:959][887]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.02.13-21.27.35:959][887]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.02.13-21.27.35:959][887]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.02.13-21.27.35:959][887]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.02.13-21.27.35:959][887]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.02.13-21.27.35:961][887]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.02.13-21.27.35:961][887]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.02.13-21.27.35:961][887]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.02.13-21.27.35:962][887]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.02.13-21.27.35:962][887]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.02.13-21.27.35:963][887]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.02.13-21.27.35:963][887]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.02.13-21.27.36:665][930]LogBlueprintUserMessages: [BP_Door_C_1] Open Door
+[2026.02.13-21.27.39:802][116]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.13-21.27.39:802][116]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_M_Basic_Map
+[2026.02.13-21.27.39:802][116]LogWorld: UWorld::CleanupWorld for M_Basic_Map, bSessionEnded=true, bCleanupResources=true
+[2026.02.13-21.27.39:802][116]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.13-21.27.39:809][116]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.02.13-21.27.39:813][116]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.13-21.27.39:834][116]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.02.13-21.27.39:834][116]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 8
+[2026.02.13-21.27.39:834][116]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2026.02.13-21.27.39:836][116]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2026.02.13-21.27.39:840][116]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.13-21.27.39:842][116]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2026.02.13-21.27.39:870][116]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.02.13-21.27.39:870][116]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.02.13-21.27.39:870][116]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.02.13-21.27.39:870][116]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.02.13-21.27.39:870][116]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.02.13-21.27.39:871][116]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.02.13-21.27.39:871][116]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.02.13-21.27.39:871][116]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.02.13-21.27.39:871][116]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.02.13-21.27.39:872][116]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.02.13-21.27.39:872][116]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.02.13-21.27.39:873][116]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.02.13-21.27.39:873][116]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.02.13-21.27.39:883][117]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2026.02.13-21.27.54:226][971]LogWindowsTextInputMethodSystem: Activated input method: English (United States) - (Keyboard).
+[2026.02.13-21.27.54:226][971]LogWindowsTextInputMethodSystem: Activated input method: English (United States) - (Keyboard).
+[2026.02.13-21.28.50:737][890]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2026.02.13-21.28.50:747][890]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Maps/M_Basic_Map_Auto6
+[2026.02.13-21.28.50:747][890]LogSavePackage: Moving '../../../../../../Users/Alexander/Documents/GitHub/Exams/Exams/Saved/M_Basic_Map_Auto6813D5D9142C2763B688400AA0BF64447.tmp' to '../../../../../../Users/Alexander/Documents/GitHub/Exams/Exams/Saved/Autosaves/Game/Maps/M_Basic_Map_Auto6.umap'
+[2026.02.13-21.28.50:749][890]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/M_Basic_Map' took 0.033
+[2026.02.13-21.28.50:749][890]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.033
+[2026.02.13-21.28.50:749][890]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Core/Props/BP_Door_Trigger] ([2] browsable assets)...
+[2026.02.13-21.28.50:749][890]OBJ SavePackage: Finished generating thumbnails for package [/Game/Core/Props/BP_Door_Trigger]
+[2026.02.13-21.28.50:753][890]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Core/Props/BP_Door_Trigger_Auto6
+[2026.02.13-21.28.50:753][890]LogSavePackage: Moving '../../../../../../Users/Alexander/Documents/GitHub/Exams/Exams/Saved/BP_Door_Trigger_Auto60E9FA79E488BC368C03AD1BB945B73F6.tmp' to '../../../../../../Users/Alexander/Documents/GitHub/Exams/Exams/Saved/Autosaves/Game/Core/Props/BP_Door_Trigger_Auto6.uasset'
+[2026.02.13-21.28.50:754][890]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Core/Props/BP_Door_LineTrace] ([2] browsable assets)...
+[2026.02.13-21.28.50:754][890]OBJ SavePackage: Finished generating thumbnails for package [/Game/Core/Props/BP_Door_LineTrace]
+[2026.02.13-21.28.50:757][890]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Core/Props/BP_Door_LineTrace_Auto6
+[2026.02.13-21.28.50:757][890]LogSavePackage: Moving '../../../../../../Users/Alexander/Documents/GitHub/Exams/Exams/Saved/BP_Door_LineTrace_Auto6D61ED3E243D0C190A1A54C963CCF2642.tmp' to '../../../../../../Users/Alexander/Documents/GitHub/Exams/Exams/Saved/Autosaves/Game/Core/Props/BP_Door_LineTrace_Auto6.uasset'
+[2026.02.13-21.28.50:758][890]LogFileHelpers: Auto-saving content packages took 0.009
+[2026.02.13-21.29.42:736][ 47]LogWindowsTextInputMethodSystem: Activated input method: Greek (Greece) - (Keyboard).
+[2026.02.13-21.29.42:736][ 47]LogWindowsTextInputMethodSystem: Activated input method: Greek (Greece) - (Keyboard).
+[2026.02.13-21.29.59:960][ 51]BlueprintLog: New page: Compile BP_Door_LineTrace
+[2026.02.13-21.30.00:007][ 51]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2026.02.13-21.30.15:539][973]LogWindowsTextInputMethodSystem: Activated input method: English (United States) - (Keyboard).
+[2026.02.13-21.30.15:539][973]LogWindowsTextInputMethodSystem: Activated input method: English (United States) - (Keyboard).
+[2026.02.13-21.30.19:782][224]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2026.02.13-21.30.29:941][822]BlueprintLog: New page: Compile BP_Door_LineTrace
+[2026.02.13-21.30.29:986][822]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2026.02.13-21.30.33:009][998]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.02.13-21.31.11:768][301]BlueprintLog: New page: Compile BP_Door_LineTrace
+[2026.02.13-21.31.11:812][301]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2026.02.13-21.31.26:161][149]BlueprintLog: New page: Compile BP_Door_LineTrace
+[2026.02.13-21.31.26:205][149]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2026.02.13-21.31.26:758][179]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.02.13-21.31.36:304][739]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.02.13-21.31.36:304][739]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.02.13-21.31.36:306][739]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.02.13-21.31.36:306][739]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.02.13-21.31.36:306][739]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.02.13-21.31.36:307][739]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.02.13-21.31.36:307][739]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.02.13-21.31.36:307][739]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.02.13-21.31.36:308][739]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.02.13-21.31.36:308][739]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.02.13-21.31.36:308][739]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.02.13-21.31.36:309][739]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.02.13-21.31.36:310][739]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.02.13-21.31.37:692][821]Cmd: TRANSACTION UNDO
+[2026.02.13-21.31.37:692][821]LogEditorTransaction: Undo Move Elements
+[2026.02.13-21.31.37:750][821]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.02.13-21.31.37:751][821]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.02.13-21.31.37:751][821]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.02.13-21.31.37:751][821]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.02.13-21.31.37:752][821]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.02.13-21.31.37:752][821]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.02.13-21.31.37:752][821]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.02.13-21.31.37:753][821]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.02.13-21.31.37:753][821]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.02.13-21.31.37:753][821]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.02.13-21.31.37:753][821]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.02.13-21.31.37:754][821]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.02.13-21.31.37:754][821]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.02.13-21.32.04:690][414]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.02.13-21.32.04:690][414]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.02.13-21.32.04:690][414]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.02.13-21.32.04:691][414]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.02.13-21.32.04:691][414]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.02.13-21.32.04:691][414]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.02.13-21.32.04:691][414]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.02.13-21.32.04:693][414]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.02.13-21.32.04:693][414]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.02.13-21.32.04:693][414]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.02.13-21.32.04:694][414]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.02.13-21.32.04:695][414]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.02.13-21.32.04:695][414]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.02.13-21.32.11:773][835]Cmd: DELETE
+[2026.02.13-21.32.11:773][835]Cmd: ACTOR DELETE
+[2026.02.13-21.32.11:775][835]LogEditorActor: Deleted Actor: BP_Door_LineTrace_C
+[2026.02.13-21.32.11:798][835]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2026.02.13-21.32.11:803][835]LogEditorActor: Deleted 1 Actors (0.030 secs)
+[2026.02.13-21.32.11:807][835]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.02.13-21.32.28:779][846]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.02.13-21.32.28:780][846]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.02.13-21.32.28:780][846]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.02.13-21.32.28:780][846]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.02.13-21.32.28:780][846]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.02.13-21.32.28:797][847]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.02.13-21.32.29:250][872]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.02.13-21.32.29:251][872]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.02.13-21.32.29:251][872]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.02.13-21.32.29:251][872]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.02.13-21.32.34:433][169]LogShaderCompilers: Display: ================================================
+[2026.02.13-21.32.34:433][169]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.02.13-21.32.34:433][169]LogShaderCompilers: Display: Total job queries 619, among them cache hits 241 (38.93%)
+[2026.02.13-21.32.34:433][169]LogShaderCompilers: Display: Tracking 375 distinct input hashes that result in 187 distinct outputs (49.87%)
+[2026.02.13-21.32.34:433][169]LogShaderCompilers: Display: RAM used: 10,96 MiB of 819,20 MiB budget. Usage: 1.34%
+[2026.02.13-21.32.34:433][169]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.02.13-21.32.34:433][169]LogShaderCompilers: Display: Shaders Compiled: 252
+[2026.02.13-21.32.34:433][169]LogShaderCompilers: Display: Jobs assigned 255, completed 252 (98.82%)
+[2026.02.13-21.32.34:433][169]LogShaderCompilers: Display: Average time worker was idle: 112.29 s
+[2026.02.13-21.32.34:433][169]LogShaderCompilers: Display: Time job spent in pending queue: average 0.28 s, longest 2.39 s
+[2026.02.13-21.32.34:433][169]LogShaderCompilers: Display: Job execution time: average 0.70 s, max 1.57 s
+[2026.02.13-21.32.34:433][169]LogShaderCompilers: Display: Job life time (pending + execution): average 0.98 s, max 2.81
+[2026.02.13-21.32.34:433][169]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 37.66 s
+[2026.02.13-21.32.34:433][169]LogShaderCompilers: Display: Jobs were issued in 255 batches (only local compilation was used), average 1.00 jobs/batch
+[2026.02.13-21.32.34:433][169]LogShaderCompilers: Display: Average processing rate: 6.69 jobs/sec
+[2026.02.13-21.32.34:433][169]LogShaderCompilers: Display: Total thread time: 117,571 s
+[2026.02.13-21.32.34:433][169]LogShaderCompilers: Display: Total thread preprocess time: 5,592 s
+[2026.02.13-21.32.34:433][169]LogShaderCompilers: Display: Percentage time preprocessing: 4.76%
+[2026.02.13-21.32.34:433][169]LogShaderCompilers: Display: Effective parallelization: 3.12 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2026.02.13-21.32.34:433][169]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.02.13-21.32.34:433][169]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled   59 times, average 0.58 sec, max 1.04 sec, min 0.32 sec)
+[2026.02.13-21.32.34:433][169]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled    2 times, average 0.57 sec, max 0.57 sec, min 0.56 sec)
+[2026.02.13-21.32.34:433][169]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled    2 times, average 0.55 sec, max 0.55 sec, min 0.55 sec)
+[2026.02.13-21.32.34:433][169]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled   59 times, average 0.55 sec, max 0.98 sec, min 0.31 sec)
+[2026.02.13-21.32.34:433][169]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy (compiled    2 times, average 0.54 sec, max 0.55 sec, min 0.54 sec)
+[2026.02.13-21.32.34:433][169]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.02.13-21.32.34:433][169]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 29.31% of total time (compiled   59 times, average 0.58 sec, max 1.04 sec, min 0.32 sec)
+[2026.02.13-21.32.34:433][169]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 27.46% of total time (compiled   59 times, average 0.55 sec, max 0.98 sec, min 0.31 sec)
+[2026.02.13-21.32.34:433][169]LogShaderCompilers: Display:                                                 FLumenCardVS - 16.20% of total time (compiled   41 times, average 0.46 sec, max 0.80 sec, min 0.29 sec)
+[2026.02.13-21.32.34:433][169]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 12.14% of total time (compiled   42 times, average 0.34 sec, max 0.63 sec, min 0.21 sec)
+[2026.02.13-21.32.34:433][169]LogShaderCompilers: Display:             TShadowDepthVSVertexShadowDepth_VirtualShadowMap - 1.85% of total time (compiled    4 times, average 0.54 sec, max 0.57 sec, min 0.52 sec)
+[2026.02.13-21.32.34:433][169]LogShaderCompilers: Display: ================================================
+[2026.02.13-21.33.25:371][112]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2026.02.13-21.33.25:394][112]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2026.02.13-21.33.26:429][112]LogSlate: Window 'Save Content' being destroyed
+[2026.02.13-21.33.26:440][112]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.13-21.33.26:525][112]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/M_Basic_Map" FILE="../../../../../../Users/Alexander/Documents/GitHub/Exams/Exams/Content/Maps/M_Basic_Map.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2026.02.13-21.33.26:547][112]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2026.02.13-21.33.26:555][112]LogSavePackage: Moving output files for package: /Game/Maps/M_Basic_Map
+[2026.02.13-21.33.26:556][112]LogSavePackage: Moving '../../../../../../Users/Alexander/Documents/GitHub/Exams/Exams/Saved/M_Basic_MapEDDE16054B44C97B07D326AE7CEB40E2.tmp' to '../../../../../../Users/Alexander/Documents/GitHub/Exams/Exams/Content/Maps/M_Basic_Map.umap'
+[2026.02.13-21.33.26:560][112]LogFileHelpers: Saving map 'M_Basic_Map' took 0.035
+[2026.02.13-21.33.26:569][112]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Core/Props/BP_Door_LineTrace" FILE="../../../../../../Users/Alexander/Documents/GitHub/Exams/Exams/Content/Core/Props/BP_Door_LineTrace.uasset" SILENT=true
+[2026.02.13-21.33.26:574][112]LogSavePackage: Moving output files for package: /Game/Core/Props/BP_Door_LineTrace
+[2026.02.13-21.33.26:574][112]LogSavePackage: Moving '../../../../../../Users/Alexander/Documents/GitHub/Exams/Exams/Saved/BP_Door_LineTrace4856BDA7440A56DECC993AA73614321D.tmp' to '../../../../../../Users/Alexander/Documents/GitHub/Exams/Exams/Content/Core/Props/BP_Door_LineTrace.uasset'
+[2026.02.13-21.33.26:577][112]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Core/Props/BP_Door_Trigger" FILE="../../../../../../Users/Alexander/Documents/GitHub/Exams/Exams/Content/Core/Props/BP_Door_Trigger.uasset" SILENT=true
+[2026.02.13-21.33.26:581][112]LogSavePackage: Moving output files for package: /Game/Core/Props/BP_Door_Trigger
+[2026.02.13-21.33.26:582][112]LogSavePackage: Moving '../../../../../../Users/Alexander/Documents/GitHub/Exams/Exams/Saved/BP_Door_Trigger3A0D264946B07619CE2D9997A956036C.tmp' to '../../../../../../Users/Alexander/Documents/GitHub/Exams/Exams/Content/Core/Props/BP_Door_Trigger.uasset'
+[2026.02.13-21.33.26:591][112]LogFileHelpers: InternalPromptForCheckoutAndSave took 151 ms (total: 2.26 sec)
+[2026.02.13-21.33.26:598][112]AssetCheck: New page: Asset Save: multiple assets
+[2026.02.13-21.33.26:598][112]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Core/Props/BP_Door_Trigger.BP_Door_Trigger
+[2026.02.13-21.33.26:598][112]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/M_Basic_Map.M_Basic_Map
+[2026.02.13-21.33.26:598][112]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Core/Props/BP_Door_LineTrace.BP_Door_LineTrace
+[2026.02.13-21.33.29:041][256]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.02.13-21.33.29:042][256]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.02.13-21.33.29:042][256]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.02.13-21.33.29:042][256]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.02.13-21.33.29:043][256]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.02.13-21.33.29:043][256]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.02.13-21.33.29:043][256]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.02.13-21.33.29:043][256]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.02.13-21.33.29:044][256]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.02.13-21.33.29:044][256]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.02.13-21.33.29:045][256]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.02.13-21.33.54:785][792]Cmd: DELETE
+[2026.02.13-21.33.54:785][792]Cmd: ACTOR DELETE
+[2026.02.13-21.33.54:787][792]LogEditorActor: Deleted Actor: BP_Door_Trigger_C
+[2026.02.13-21.33.54:807][792]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2026.02.13-21.33.54:812][792]LogEditorActor: Deleted 1 Actors (0.027 secs)
+[2026.02.13-21.33.54:818][792]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.02.13-21.34.13:494][896]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Core/Props/BP_Door_LineTrace.BP_Door_LineTrace_C
+[2026.02.13-21.34.13:494][896]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Core/Props/BP_Door_LineTrace.BP_Door_LineTrace_C
+[2026.02.13-21.34.13:496][896]LogActorFactory: Actor Factory spawned Blueprint /Game/Core/Props/BP_Door_LineTrace.BP_Door_LineTrace as actor: BP_Door_LineTrace_C /Game/Maps/M_Basic_Map.M_Basic_Map:PersistentLevel.BP_Door_LineTrace_C_2
+[2026.02.13-21.34.13:498][896]LogActorFactory: Actor Factory spawned Blueprint /Game/Core/Props/BP_Door_LineTrace.BP_Door_LineTrace as actor: BP_Door_LineTrace_C /Game/Maps/M_Basic_Map.M_Basic_Map:PersistentLevel.BP_Door_LineTrace_C_2
+[2026.02.13-21.34.16:325][ 64]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Core/Props/BP_Door_LineTrace.BP_Door_LineTrace_C
+[2026.02.13-21.34.16:325][ 64]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Core/Props/BP_Door_LineTrace.BP_Door_LineTrace_C
+[2026.02.13-21.34.16:327][ 64]LogActorFactory: Actor Factory spawned Blueprint /Game/Core/Props/BP_Door_LineTrace.BP_Door_LineTrace as actor: BP_Door_LineTrace_C /Game/Maps/M_Basic_Map.M_Basic_Map:PersistentLevel.BP_Door_LineTrace_C_3
+[2026.02.13-21.34.16:328][ 64]LogActorFactory: Actor Factory spawned Blueprint /Game/Core/Props/BP_Door_LineTrace.BP_Door_LineTrace as actor: BP_Door_LineTrace_C /Game/Maps/M_Basic_Map.M_Basic_Map:PersistentLevel.BP_Door_LineTrace_C_3
+[2026.02.13-21.34.16:343][ 64]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.02.13-21.34.52:952][242]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.13-21.34.53:018][242]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/M_Basic_Map" FILE="../../../../../../Users/Alexander/Documents/GitHub/Exams/Exams/Content/Maps/M_Basic_Map.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2026.02.13-21.34.53:040][242]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2026.02.13-21.34.53:051][242]LogSavePackage: Moving output files for package: /Game/Maps/M_Basic_Map
+[2026.02.13-21.34.53:052][242]LogSavePackage: Moving '../../../../../../Users/Alexander/Documents/GitHub/Exams/Exams/Saved/M_Basic_Map30BCB414423C627810D52D9473EC259F.tmp' to '../../../../../../Users/Alexander/Documents/GitHub/Exams/Exams/Content/Maps/M_Basic_Map.umap'
+[2026.02.13-21.34.53:056][242]LogFileHelpers: Saving map 'M_Basic_Map' took 0.039
+[2026.02.13-21.34.53:064][242]LogFileHelpers: InternalPromptForCheckoutAndSave took 111 ms (total: 2.37 sec)
+[2026.02.13-21.34.53:068][242]AssetCheck: New page: Asset Save: M_Basic_Map
+[2026.02.13-21.34.53:068][242]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/M_Basic_Map.M_Basic_Map
+[2026.02.13-21.35.16:982][667]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.13-21.35.17:047][667]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/M_Basic_Map" FILE="../../../../../../Users/Alexander/Documents/GitHub/Exams/Exams/Content/Maps/M_Basic_Map.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2026.02.13-21.35.17:069][667]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2026.02.13-21.35.17:077][667]LogSavePackage: Moving output files for package: /Game/Maps/M_Basic_Map
+[2026.02.13-21.35.17:078][667]LogSavePackage: Moving '../../../../../../Users/Alexander/Documents/GitHub/Exams/Exams/Saved/M_Basic_Map1C1EF904432CCAB9DDBB70995C3C3F70.tmp' to '../../../../../../Users/Alexander/Documents/GitHub/Exams/Exams/Content/Maps/M_Basic_Map.umap'
+[2026.02.13-21.35.17:081][667]LogFileHelpers: Saving map 'M_Basic_Map' took 0.035
+[2026.02.13-21.35.17:089][667]LogFileHelpers: InternalPromptForCheckoutAndSave took 107 ms (total: 2.48 sec)
+[2026.02.13-21.35.17:095][667]AssetCheck: New page: Asset Save: M_Basic_Map
+[2026.02.13-21.35.17:095][667]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/M_Basic_Map.M_Basic_Map
+[2026.02.13-21.35.19:546][813]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2026.02.13-21.35.20:840][813]LogSlate: Window 'Save Content' being destroyed
+[2026.02.13-21.35.20:851][813]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.13-21.35.20:925][813]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Core/Props/BP_Door_LineTrace" FILE="../../../../../../Users/Alexander/Documents/GitHub/Exams/Exams/Content/Core/Props/BP_Door_LineTrace.uasset" SILENT=true
+[2026.02.13-21.35.20:929][813]LogSavePackage: Moving output files for package: /Game/Core/Props/BP_Door_LineTrace
+[2026.02.13-21.35.20:930][813]LogSavePackage: Moving '../../../../../../Users/Alexander/Documents/GitHub/Exams/Exams/Saved/BP_Door_LineTrace027CB678490CFE768E72A9A2B5166D85.tmp' to '../../../../../../Users/Alexander/Documents/GitHub/Exams/Exams/Content/Core/Props/BP_Door_LineTrace.uasset'
+[2026.02.13-21.35.20:938][813]LogFileHelpers: InternalPromptForCheckoutAndSave took 87 ms (total: 2.57 sec)
+[2026.02.13-21.35.20:944][813]AssetCheck: New page: Asset Save: BP_Door_LineTrace
+[2026.02.13-21.35.20:944][813]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Core/Props/BP_Door_LineTrace.BP_Door_LineTrace
+[2026.02.13-21.35.34:751][641]LogViewport: Scene viewport resized to 1646x1072, mode Windowed.
+[2026.02.13-21.35.34:772][642]LogViewport: Scene viewport resized to 1646x1062, mode Windowed.
+[2026.02.13-21.35.34:793][643]LogViewport: Scene viewport resized to 1646x1053, mode Windowed.
+[2026.02.13-21.35.34:812][644]LogViewport: Scene viewport resized to 1646x1044, mode Windowed.
+[2026.02.13-21.35.34:851][645]LogViewport: Scene viewport resized to 1646x1026, mode Windowed.
+[2026.02.13-21.35.34:868][646]LogViewport: Scene viewport resized to 1646x1017, mode Windowed.
+[2026.02.13-21.35.34:898][647]LogViewport: Scene viewport resized to 1646x1010, mode Windowed.
+[2026.02.13-21.36.52:710][255]BlueprintLog: New page: Compile BP_Door_LineTrace
+[2026.02.13-21.36.52:753][255]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2026.02.13-21.37.37:617][890]BlueprintLog: New page: Compile BP_Door_LineTrace
+[2026.02.13-21.37.37:662][890]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2026.02.13-21.40.35:766][862]LogWindowsTextInputMethodSystem: Activated input method: Greek (Greece) - (Keyboard).
+[2026.02.13-21.40.35:766][862]LogWindowsTextInputMethodSystem: Activated input method: Greek (Greece) - (Keyboard).
+[2026.02.13-21.41.43:803][702]LogWindowsTextInputMethodSystem: Activated input method: English (United States) - (Keyboard).
+[2026.02.13-21.41.43:803][702]LogWindowsTextInputMethodSystem: Activated input method: English (United States) - (Keyboard).
+[2026.02.13-21.45.34:379][954]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2026.02.13-21.45.34:389][954]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Maps/M_Basic_Map_Auto7
+[2026.02.13-21.45.34:389][954]LogSavePackage: Moving '../../../../../../Users/Alexander/Documents/GitHub/Exams/Exams/Saved/M_Basic_Map_Auto7B111AD904BE29D6DB915CCBB84D5900B.tmp' to '../../../../../../Users/Alexander/Documents/GitHub/Exams/Exams/Saved/Autosaves/Game/Maps/M_Basic_Map_Auto7.umap'
+[2026.02.13-21.45.34:393][954]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/M_Basic_Map' took 0.036
+[2026.02.13-21.45.34:393][954]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.036
+[2026.02.13-21.45.34:393][954]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Core/Props/BP_Door_LineTrace] ([2] browsable assets)...
+[2026.02.13-21.45.34:401][954]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Core/Props/BP_Door_LineTrace.BP_Door_LineTrace]
+[2026.02.13-21.45.34:402][954]OBJ SavePackage: Finished generating thumbnails for package [/Game/Core/Props/BP_Door_LineTrace]
+[2026.02.13-21.45.34:406][954]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Core/Props/BP_Door_LineTrace_Auto7
+[2026.02.13-21.45.34:406][954]LogSavePackage: Moving '../../../../../../Users/Alexander/Documents/GitHub/Exams/Exams/Saved/BP_Door_LineTrace_Auto7AFC217234F45E1771C6CDBB0F2911750.tmp' to '../../../../../../Users/Alexander/Documents/GitHub/Exams/Exams/Saved/Autosaves/Game/Core/Props/BP_Door_LineTrace_Auto7.uasset'
+[2026.02.13-21.45.34:407][954]LogFileHelpers: Auto-saving content packages took 0.015
+[2026.02.13-21.46.52:567][575]LogWindowsTextInputMethodSystem: Activated input method: Greek (Greece) - (Keyboard).
+[2026.02.13-21.46.52:567][575]LogWindowsTextInputMethodSystem: Activated input method: Greek (Greece) - (Keyboard).
+[2026.02.13-21.47.32:371][921]LogWindowsTextInputMethodSystem: Activated input method: English (United States) - (Keyboard).
+[2026.02.13-21.47.32:371][921]LogWindowsTextInputMethodSystem: Activated input method: English (United States) - (Keyboard).
+[2026.02.13-21.48.12:631][321]BlueprintLog: New page: Compile BP_Door_LineTrace
+[2026.02.13-21.48.12:675][321]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2026.02.13-21.49.06:816][559]BlueprintLog: New page: Compile BP_Door_LineTrace
+[2026.02.13-21.49.06:859][559]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2026.02.13-21.49.21:477][432]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find source file and line number for 'USceneComponent::K2_SetRelativeRotation' [Element not found.]
+[2026.02.13-21.51.54:275][834]BlueprintLog: New page: Compile BP_Door_LineTrace
+[2026.02.13-21.51.54:318][834]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2026.02.13-21.51.56:096][939]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.02.13-21.51.58:187][ 63]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.02.13-21.51.58:194][ 63]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.02.13-21.51.58:194][ 63]PIE: New page: PIE session: M_Basic_Map (14 Φεβ 2026, 1:51:58 π.μ.)
+[2026.02.13-21.51.58:194][ 63]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_M_Basic_Map
+[2026.02.13-21.51.58:197][ 63]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002176s)
+[2026.02.13-21.51.58:197][ 63]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/M_Basic_Map.M_Basic_Map to /Game/Maps/UEDPIE_0_M_Basic_Map.M_Basic_Map (0.002210s)
+[2026.02.13-21.51.58:197][ 63]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2026.02.13-21.51.58:197][ 63]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2026.02.13-21.51.58:197][ 63]LogAIModule: Creating AISystem for world M_Basic_Map
+[2026.02.13-21.51.58:197][ 63]LogPlayLevel: PIE: World Init took: (0.000800s)
+[2026.02.13-21.51.58:218][ 63]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2026.02.13-21.51.58:220][ 63]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2026.02.13-21.51.58:220][ 63]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.02.13-21.51.58:220][ 63]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.02.13-21.51.58:220][ 63]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.02.13-21.51.58:220][ 63]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.02.13-21.51.58:220][ 63]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.02.13-21.51.58:220][ 63]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2026.02.13-21.51.58:220][ 63]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.02.13-21.51.58:220][ 63]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.02.13-21.51.58:221][ 63]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.02.13-21.51.58:221][ 63]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.02.13-21.51.58:221][ 63]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.02.13-21.51.58:224][ 63]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.02.13-21.51.58:240][ 63]LogAudioMixer: Display: Using Audio Hardware Device LG TV SSCR2 (NVIDIA High Definition Audio)
+[2026.02.13-21.51.58:240][ 63]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.02.13-21.51.58:240][ 63]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.02.13-21.51.58:240][ 63]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.02.13-21.51.58:241][ 63]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=9
+[2026.02.13-21.51.58:242][ 63]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=9
+[2026.02.13-21.51.58:244][ 63]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=9
+[2026.02.13-21.51.58:244][ 63]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=9
+[2026.02.13-21.51.58:244][ 63]LogInit: FAudioDevice initialized with ID 9.
+[2026.02.13-21.51.58:244][ 63]LogAudio: Display: Audio Device (ID: 9) registered with world 'M_Basic_Map'.
+[2026.02.13-21.51.58:244][ 63]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 9
+[2026.02.13-21.51.58:247][ 63]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.02.13-21.51.58:248][ 63]LogWorld: Bringing World /Game/Maps/UEDPIE_0_M_Basic_Map.M_Basic_Map up for play (max tick rate 60) at 2026.02.13-23.51.58
+[2026.02.13-21.51.58:248][ 63]LogWorld: Bringing up level for play took: 0.001229
+[2026.02.13-21.51.58:251][ 63]LogOnline: OSS: Created online subsystem instance for: :Context_25
+[2026.02.13-21.51.58:255][ 63]PIE: Server logged in
+[2026.02.13-21.51.58:256][ 63]PIE: Play in editor total start time 0,064 seconds.
+[2026.02.13-21.51.58:313][ 63]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.02.13-21.51.58:313][ 63]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.02.13-21.51.58:314][ 63]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.02.13-21.51.58:314][ 63]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.02.13-21.51.58:314][ 63]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.02.13-21.51.58:315][ 63]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.02.13-21.51.58:315][ 63]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.02.13-21.51.58:315][ 63]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.02.13-21.51.58:316][ 63]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.02.13-21.51.58:316][ 63]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.02.13-21.51.58:316][ 63]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.02.13-21.51.58:318][ 63]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.02.13-21.51.58:318][ 63]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.02.13-21.52.09:814][750]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.13-21.52.09:814][750]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_M_Basic_Map
+[2026.02.13-21.52.09:814][750]LogWorld: UWorld::CleanupWorld for M_Basic_Map, bSessionEnded=true, bCleanupResources=true
+[2026.02.13-21.52.09:814][750]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.13-21.52.09:822][750]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.02.13-21.52.09:826][750]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.13-21.52.09:847][750]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.02.13-21.52.09:847][750]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 9
+[2026.02.13-21.52.09:847][750]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2026.02.13-21.52.09:849][750]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2026.02.13-21.52.09:853][750]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.13-21.52.09:856][750]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2026.02.13-21.52.09:883][750]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.02.13-21.52.09:884][750]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.02.13-21.52.09:884][750]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.02.13-21.52.09:884][750]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.02.13-21.52.09:885][750]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.02.13-21.52.09:885][750]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.02.13-21.52.09:885][750]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.02.13-21.52.09:885][750]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.02.13-21.52.09:886][750]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.02.13-21.52.09:886][750]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.02.13-21.52.09:886][750]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.02.13-21.52.09:887][750]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.02.13-21.52.09:888][750]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.02.13-21.52.09:896][751]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2026.02.13-21.52.18:528][266]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2026.02.13-21.52.18:549][266]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2026.02.13-21.52.20:322][266]LogSlate: Window 'Save Content' being destroyed
+[2026.02.13-21.52.20:338][266]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.13-21.52.20:420][266]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/M_Basic_Map" FILE="../../../../../../Users/Alexander/Documents/GitHub/Exams/Exams/Content/Maps/M_Basic_Map.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2026.02.13-21.52.20:440][266]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2026.02.13-21.52.20:449][266]LogSavePackage: Moving output files for package: /Game/Maps/M_Basic_Map
+[2026.02.13-21.52.20:449][266]LogSavePackage: Moving '../../../../../../Users/Alexander/Documents/GitHub/Exams/Exams/Saved/M_Basic_Map285917C24E6AA8D7744F2187402BD60E.tmp' to '../../../../../../Users/Alexander/Documents/GitHub/Exams/Exams/Content/Maps/M_Basic_Map.umap'
+[2026.02.13-21.52.20:454][266]LogFileHelpers: Saving map 'M_Basic_Map' took 0.035
+[2026.02.13-21.52.20:466][266]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Core/Props/BP_Door_LineTrace" FILE="../../../../../../Users/Alexander/Documents/GitHub/Exams/Exams/Content/Core/Props/BP_Door_LineTrace.uasset" SILENT=true
+[2026.02.13-21.52.20:471][266]LogSavePackage: Moving output files for package: /Game/Core/Props/BP_Door_LineTrace
+[2026.02.13-21.52.20:472][266]LogSavePackage: Moving '../../../../../../Users/Alexander/Documents/GitHub/Exams/Exams/Saved/BP_Door_LineTrace33C1946243C5912BD11DDEA32572C36A.tmp' to '../../../../../../Users/Alexander/Documents/GitHub/Exams/Exams/Content/Core/Props/BP_Door_LineTrace.uasset'
+[2026.02.13-21.52.20:482][266]LogFileHelpers: InternalPromptForCheckoutAndSave took 144 ms (total: 2.71 sec)
+[2026.02.13-21.52.20:487][266]AssetCheck: New page: Asset Save: multiple assets
+[2026.02.13-21.52.20:487][266]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/M_Basic_Map.M_Basic_Map
+[2026.02.13-21.52.20:487][266]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Core/Props/BP_Door_LineTrace.BP_Door_LineTrace
+[2026.02.13-21.52.22:802][403]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.13-21.52.22:859][403]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/M_Basic_Map" FILE="../../../../../../Users/Alexander/Documents/GitHub/Exams/Exams/Content/Maps/M_Basic_Map.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2026.02.13-21.52.22:881][403]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2026.02.13-21.52.22:889][403]LogSavePackage: Moving output files for package: /Game/Maps/M_Basic_Map
+[2026.02.13-21.52.22:890][403]LogSavePackage: Moving '../../../../../../Users/Alexander/Documents/GitHub/Exams/Exams/Saved/M_Basic_Map3791D47D4C80B95F81C592BB14551D50.tmp' to '../../../../../../Users/Alexander/Documents/GitHub/Exams/Exams/Content/Maps/M_Basic_Map.umap'
+[2026.02.13-21.52.22:893][403]LogFileHelpers: Saving map 'M_Basic_Map' took 0.034
+[2026.02.13-21.52.22:902][403]LogFileHelpers: InternalPromptForCheckoutAndSave took 99 ms (total: 2.81 sec)
+[2026.02.13-21.52.22:906][403]AssetCheck: New page: Asset Save: M_Basic_Map
+[2026.02.13-21.52.22:906][403]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/M_Basic_Map.M_Basic_Map
