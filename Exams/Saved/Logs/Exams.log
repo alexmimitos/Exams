@@ -3054,3 +3054,29 @@ LogConfig: CVar [[LogNamedEventFilters:Frame *]] deferred - dummy variable creat
 [2026.02.13-20.55.33:903][840]LogFileHelpers: Auto-saving content packages took 0.020
 [2026.02.13-20.56.01:440][489]BlueprintLog: New page: Compile BP_Door_Trigger
 [2026.02.13-20.56.01:479][489]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2026.02.13-20.59.37:656][740]LogSlate: Window 'Pick Parent Class' being destroyed
+[2026.02.13-20.59.37:669][740]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2026.02.13-20.59.37:685][740]LogContentBrowser: Creating deferred item: NewBlueprint
+[2026.02.13-20.59.37:731][741]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2026.02.13-20.59.41:846][987]LogWindowsTextInputMethodSystem: Activated input method: Greek (Greece) - (Keyboard).
+[2026.02.13-20.59.41:846][987]LogWindowsTextInputMethodSystem: Activated input method: Greek (Greece) - (Keyboard).
+[2026.02.13-20.59.47:786][341]LogWindowsTextInputMethodSystem: Activated input method: English (United States) - (Keyboard).
+[2026.02.13-20.59.47:786][341]LogWindowsTextInputMethodSystem: Activated input method: English (United States) - (Keyboard).
+[2026.02.13-21.00.07:745][536]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_Door_LineTrace
+[2026.02.13-21.00.07:751][536]LogContentBrowser: End creating deferred item NewBlueprint
+[2026.02.13-21.00.10:202][682]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Core/Props/BP_Door_LineTrace.BP_Door_LineTrace
+[2026.02.13-21.00.10:202][682]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2026.02.13-21.00.10:202][682]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2026.02.13-21.00.10:362][682]LogViewport: Scene viewport resized to 1661x950, mode Windowed.
+[2026.02.13-21.00.11:708][751]LogViewport: Scene viewport resized to 1657x978, mode Windowed.
+[2026.02.13-21.00.11:825][752]LogViewport: Scene viewport resized to 2209x1302, mode Windowed.
+[2026.02.13-21.00.11:876][753]LogViewport: Scene viewport resized to 498x176, mode Windowed.
+[2026.02.13-21.00.12:327][780]LogViewport: Scene viewport resized to 1646x1010, mode Windowed.
+[2026.02.13-21.00.13:297][838]LogSlate: Window 'BP_Door_LineTrace' being destroyed
+[2026.02.13-21.00.13:316][838]LogViewport: Scene viewport resized to 1646x1066, mode Windowed.
+[2026.02.13-21.00.13:333][839]LogViewport: Scene viewport resized to 1646x1058, mode Windowed.
+[2026.02.13-21.00.13:379][840]LogViewport: Scene viewport resized to 1646x1037, mode Windowed.
+[2026.02.13-21.00.13:397][841]LogViewport: Scene viewport resized to 1646x1029, mode Windowed.
+[2026.02.13-21.00.13:414][842]LogViewport: Scene viewport resized to 1646x1021, mode Windowed.
+[2026.02.13-21.00.13:431][843]LogViewport: Scene viewport resized to 1646x1014, mode Windowed.
+[2026.02.13-21.00.13:446][844]LogViewport: Scene viewport resized to 1646x1010, mode Windowed.
