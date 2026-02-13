@@ -1398,3 +1398,39 @@ LogInit: Object subsystem initialized
 [2026.02.13-18.28.26:411][907]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 14.78% of total time (compiled   12 times, average 0.65 sec, max 1.27 sec, min 0.34 sec)
 [2026.02.13-18.28.26:411][907]LogShaderCompilers: Display:             TShadowDepthVSVertexShadowDepth_VirtualShadowMap - 5.24% of total time (compiled    2 times, average 1.38 sec, max 1.77 sec, min 0.99 sec)
 [2026.02.13-18.28.26:411][907]LogShaderCompilers: Display: ================================================
+[2026.02.13-18.29.14:128][471]LogWindowsTextInputMethodSystem: Activated input method: English (United States) - (Keyboard).
+[2026.02.13-18.29.14:128][471]LogWindowsTextInputMethodSystem: Activated input method: English (United States) - (Keyboard).
+[2026.02.13-18.29.20:175][822]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2026.02.13-18.29.20:186][822]LogContentBrowser: Creating deferred item: NewFolder
+[2026.02.13-18.29.20:213][824]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2026.02.13-18.29.27:034][233]LogContentBrowser: Attempting asset rename: NewFolder -> NewFolder
+[2026.02.13-18.29.27:034][233]LogContentBrowser: End creating deferred item NewFolder
+[2026.02.13-18.29.37:785][807]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2026.02.13-18.29.37:800][807]LogContentBrowser: Creating deferred item: NewFolder
+[2026.02.13-18.29.37:828][809]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2026.02.13-18.29.40:505][970]LogContentBrowser: Attempting asset rename: NewFolder -> Props
+[2026.02.13-18.29.40:505][970]LogContentBrowser: End creating deferred item NewFolder
+[2026.02.13-18.30.48:877][420]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Brush 'ContentBrowser.ListViewFolderIcon.Base'.'
+[2026.02.13-18.30.48:877][420]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Brush 'ContentBrowser.ListViewFolderIcon.Mask'.'
+[2026.02.13-18.31.11:704][763]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2026.02.13-18.31.16:542][ 29]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2026.02.13-18.31.16:574][ 30]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2026.02.13-18.31.16:667][ 30]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (SKM_Manny_Simple) ...
+[2026.02.13-18.32.31:108][976]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2026.02.13-18.32.31:126][976]LogContentBrowser: Creating deferred item: NewFolder
+[2026.02.13-18.32.31:165][978]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2026.02.13-18.32.33:822][138]LogContentBrowser: Attempting asset rename: NewFolder -> Props
+[2026.02.13-18.32.33:822][138]LogContentBrowser: End creating deferred item NewFolder
+[2026.02.13-18.32.42:348][506]LogSlate: Window 'Pick Parent Class' being destroyed
+[2026.02.13-18.32.42:362][506]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2026.02.13-18.32.42:371][506]LogContentBrowser: Creating deferred item: NewBlueprint
+[2026.02.13-18.32.42:407][508]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2026.02.13-18.32.47:714][818]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_Door
+[2026.02.13-18.32.47:729][818]LogContentBrowser: End creating deferred item NewBlueprint
+[2026.02.13-18.34.20:742][622]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2026.02.13-18.34.20:746][622]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/M_Basic_Map' took 0.016
+[2026.02.13-18.34.20:748][622]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Core/Props/BP_Door] ([2] browsable assets)...
+[2026.02.13-18.34.20:748][622]OBJ SavePackage: Finished generating thumbnails for package [/Game/Core/Props/BP_Door]
+[2026.02.13-18.34.20:756][622]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Core/Props/BP_Door_Auto1
+[2026.02.13-18.34.20:756][622]LogSavePackage: Moving '../../../../../../Users/Alexander/Documents/GitHub/Exams/Exams/Saved/BP_Door_Auto1EFC12128460F40475BD6B7B0C1D4ADC3.tmp' to '../../../../../../Users/Alexander/Documents/GitHub/Exams/Exams/Saved/Autosaves/Game/Core/Props/BP_Door_Auto1.uasset'
+[2026.02.13-18.34.20:771][622]LogFileHelpers: Auto-saving content packages took 0.025
