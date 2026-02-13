@@ -3640,3 +3640,4 @@ LogConfig: CVar [[LogNamedEventFilters:Frame *]] deferred - dummy variable creat
 [2026.02.13-21.52.22:902][403]LogFileHelpers: InternalPromptForCheckoutAndSave took 99 ms (total: 2.81 sec)
 [2026.02.13-21.52.22:906][403]AssetCheck: New page: Asset Save: M_Basic_Map
 [2026.02.13-21.52.22:906][403]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/M_Basic_Map.M_Basic_Map
+[2026.02.13-21.53.29:228][935]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
