@@ -3830,3 +3830,26 @@ LogInit: Object subsystem initialized
 [2026.02.15-22.28.52:091][630]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Core/Props/BP_DoorTest_Auto5
 [2026.02.15-22.28.52:091][630]LogSavePackage: Moving '../../../../../../Users/Alexander/Documents/GitHub/Exams/Exams/Saved/BP_DoorTest_Auto5126BE897464FC060AA4B05922329A99C.tmp' to '../../../../../../Users/Alexander/Documents/GitHub/Exams/Exams/Saved/Autosaves/Game/Core/Props/BP_DoorTest_Auto5.uasset'
 [2026.02.15-22.28.52:091][630]LogFileHelpers: Auto-saving content packages took 0.031
+[2026.02.15-22.29.20:323][831]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2026.02.15-22.29.20:342][831]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2026.02.15-22.29.21:350][831]LogSlate: Window 'Save Content' being destroyed
+[2026.02.15-22.29.21:361][831]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.15-22.29.21:465][831]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/M_Basic_Map" FILE="../../../../../../Users/Alexander/Documents/GitHub/Exams/Exams/Content/Maps/M_Basic_Map.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2026.02.15-22.29.21:485][831]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2026.02.15-22.29.21:494][831]LogSavePackage: Moving output files for package: /Game/Maps/M_Basic_Map
+[2026.02.15-22.29.21:495][831]LogSavePackage: Moving '../../../../../../Users/Alexander/Documents/GitHub/Exams/Exams/Saved/M_Basic_Map7DAF274E42A7E15A574D7990F993A607.tmp' to '../../../../../../Users/Alexander/Documents/GitHub/Exams/Exams/Content/Maps/M_Basic_Map.umap'
+[2026.02.15-22.29.21:499][831]LogFileHelpers: Saving map 'M_Basic_Map' took 0.035
+[2026.02.15-22.29.21:499][831]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Core/Props/BP_DoorTest" FILE="../../../../../../Users/Alexander/Documents/GitHub/Exams/Exams/Content/Core/Props/BP_DoorTest.uasset" SILENT=true
+[2026.02.15-22.29.21:506][831]LogSavePackage: Moving output files for package: /Game/Core/Props/BP_DoorTest
+[2026.02.15-22.29.21:507][831]LogSavePackage: Moving '../../../../../../Users/Alexander/Documents/GitHub/Exams/Exams/Saved/BP_DoorTestA4E055EB47492A8AE301CDBC80065AC9.tmp' to '../../../../../../Users/Alexander/Documents/GitHub/Exams/Exams/Content/Core/Props/BP_DoorTest.uasset'
+[2026.02.15-22.29.21:537][831]LogFileHelpers: InternalPromptForCheckoutAndSave took 175 ms (total: 5.36 sec)
+[2026.02.15-22.29.21:542][831]AssetCheck: New page: Asset Save: multiple assets
+[2026.02.15-22.29.21:542][831]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/M_Basic_Map.M_Basic_Map
+[2026.02.15-22.29.21:542][831]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Core/Props/BP_DoorTest.BP_DoorTest
+[2026.02.15-22.29.23:584][954]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.15-22.29.23:666][954]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Core/Props/BP_DoorTest" FILE="../../../../../../Users/Alexander/Documents/GitHub/Exams/Exams/Content/Core/Props/BP_DoorTest.uasset" SILENT=true
+[2026.02.15-22.29.23:673][954]LogSavePackage: Moving output files for package: /Game/Core/Props/BP_DoorTest
+[2026.02.15-22.29.23:673][954]LogSavePackage: Moving '../../../../../../Users/Alexander/Documents/GitHub/Exams/Exams/Saved/BP_DoorTest70E6218A46852390EF4CF89387C05102.tmp' to '../../../../../../Users/Alexander/Documents/GitHub/Exams/Exams/Content/Core/Props/BP_DoorTest.uasset'
+[2026.02.15-22.29.23:682][954]LogFileHelpers: InternalPromptForCheckoutAndSave took 98 ms (total: 5.46 sec)
+[2026.02.15-22.29.23:687][954]AssetCheck: New page: Asset Save: BP_DoorTest
+[2026.02.15-22.29.23:687][954]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Core/Props/BP_DoorTest.BP_DoorTest
