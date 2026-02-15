@@ -2885,3 +2885,948 @@ LogInit: Object subsystem initialized
 [2026.02.15-21.56.26:230][851]LogFileHelpers: InternalPromptForCheckoutAndSave took 100 ms (total: 4.91 sec)
 [2026.02.15-21.56.26:236][851]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
 [2026.02.15-21.56.26:236][851]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2026.02.15-21.57.25:157][678]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2026.02.15-21.57.25:234][678]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2026.02.15-21.57.27:544][809]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.02.15-21.57.27:552][809]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.02.15-21.57.27:552][809]PIE: New page: PIE session: M_Basic_Map (16 Φεβ 2026, 1:57:27 π.μ.)
+[2026.02.15-21.57.27:552][809]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_M_Basic_Map
+[2026.02.15-21.57.27:554][809]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002605s)
+[2026.02.15-21.57.27:555][809]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/M_Basic_Map.M_Basic_Map to /Game/Maps/UEDPIE_0_M_Basic_Map.M_Basic_Map (0.002643s)
+[2026.02.15-21.57.27:555][809]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2026.02.15-21.57.27:555][809]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2026.02.15-21.57.27:555][809]LogAIModule: Creating AISystem for world M_Basic_Map
+[2026.02.15-21.57.27:555][809]LogPlayLevel: PIE: World Init took: (0.000912s)
+[2026.02.15-21.57.27:577][809]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2026.02.15-21.57.27:581][809]LogAudio: Display: Creating Audio Device:                 Id: 17, Scope: Unique, Realtime: True
+[2026.02.15-21.57.27:581][809]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.02.15-21.57.27:581][809]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.02.15-21.57.27:581][809]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.02.15-21.57.27:581][809]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.02.15-21.57.27:581][809]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.02.15-21.57.27:581][809]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2026.02.15-21.57.27:581][809]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.02.15-21.57.27:581][809]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.02.15-21.57.27:581][809]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.02.15-21.57.27:581][809]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.02.15-21.57.27:581][809]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.02.15-21.57.27:584][809]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.02.15-21.57.27:602][809]LogAudioMixer: Display: Using Audio Hardware Device LG TV SSCR2 (NVIDIA High Definition Audio)
+[2026.02.15-21.57.27:602][809]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.02.15-21.57.27:602][809]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.02.15-21.57.27:602][809]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.02.15-21.57.27:603][809]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=17
+[2026.02.15-21.57.27:603][809]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=17
+[2026.02.15-21.57.27:605][809]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=17
+[2026.02.15-21.57.27:605][809]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=17
+[2026.02.15-21.57.27:605][809]LogInit: FAudioDevice initialized with ID 17.
+[2026.02.15-21.57.27:605][809]LogAudio: Display: Audio Device (ID: 17) registered with world 'M_Basic_Map'.
+[2026.02.15-21.57.27:605][809]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 17
+[2026.02.15-21.57.27:608][809]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.02.15-21.57.27:610][809]LogWorld: Bringing World /Game/Maps/UEDPIE_0_M_Basic_Map.M_Basic_Map up for play (max tick rate 60) at 2026.02.15-23.57.27
+[2026.02.15-21.57.27:610][809]LogWorld: Bringing up level for play took: 0.001295
+[2026.02.15-21.57.27:613][809]LogOnline: OSS: Created online subsystem instance for: :Context_30
+[2026.02.15-21.57.27:617][809]PIE: Server logged in
+[2026.02.15-21.57.27:618][809]PIE: Play in editor total start time 0,068 seconds.
+[2026.02.15-21.57.27:676][809]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.02.15-21.57.27:678][809]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.02.15-21.57.27:679][809]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.02.15-21.57.27:679][809]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.02.15-21.57.27:679][809]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.02.15-21.57.27:679][809]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.02.15-21.57.27:680][809]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.02.15-21.57.27:680][809]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.02.15-21.57.27:682][809]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.02.15-21.57.27:682][809]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.02.15-21.57.32:794][115]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.15-21.57.32:794][115]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_M_Basic_Map
+[2026.02.15-21.57.32:794][115]LogWorld: UWorld::CleanupWorld for M_Basic_Map, bSessionEnded=true, bCleanupResources=true
+[2026.02.15-21.57.32:794][115]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.15-21.57.32:800][115]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.02.15-21.57.32:804][115]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.15-21.57.32:824][115]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.02.15-21.57.32:824][115]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 17
+[2026.02.15-21.57.32:824][115]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17
+[2026.02.15-21.57.32:827][115]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17
+[2026.02.15-21.57.32:831][115]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.15-21.57.32:833][115]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2026.02.15-21.57.32:861][115]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.02.15-21.57.32:861][115]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.02.15-21.57.32:862][115]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.02.15-21.57.32:862][115]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.02.15-21.57.32:862][115]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.02.15-21.57.32:863][115]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.02.15-21.57.32:863][115]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.02.15-21.57.32:863][115]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.02.15-21.57.32:864][115]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.02.15-21.57.32:865][115]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.02.15-21.57.32:875][116]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2026.02.15-22.04.02:063][440]LogDerivedDataCache: C:/Users/Alexander/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:16.144 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 8434 files in 10342 folders with total size 634 MiB.
+[2026.02.15-22.06.25:518][869]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2026.02.15-22.06.25:528][869]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Maps/M_Basic_Map_Auto4
+[2026.02.15-22.06.25:529][869]LogSavePackage: Moving '../../../../../../Users/Alexander/Documents/GitHub/Exams/Exams/Saved/M_Basic_Map_Auto43E73B58445EF85391F1388B3E5479945.tmp' to '../../../../../../Users/Alexander/Documents/GitHub/Exams/Exams/Saved/Autosaves/Game/Maps/M_Basic_Map_Auto4.umap'
+[2026.02.15-22.06.25:531][869]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/M_Basic_Map' took 0.037
+[2026.02.15-22.06.25:531][869]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.037
+[2026.02.15-22.06.25:531][869]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2026.02.15-22.06.25:558][869]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2026.02.15-22.06.25:558][869]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2026.02.15-22.06.25:571][869]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto4
+[2026.02.15-22.06.25:571][869]LogSavePackage: Moving '../../../../../../Users/Alexander/Documents/GitHub/Exams/Exams/Saved/BP_ThirdPersonCharacter_Auto47F9368AA467DB33F82FBB2B208D72462.tmp' to '../../../../../../Users/Alexander/Documents/GitHub/Exams/Exams/Saved/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto4.uasset'
+[2026.02.15-22.06.25:572][869]LogFileHelpers: Auto-saving content packages took 0.040
+[2026.02.15-22.07.48:070][ 63]BlueprintLog: New page: Compile BP_DoorTest
+[2026.02.15-22.07.48:151][ 63]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2026.02.15-22.07.48:652][ 87]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.02.15-22.07.49:665][147]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.02.15-22.07.49:673][147]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.02.15-22.07.49:673][147]PIE: New page: PIE session: M_Basic_Map (16 Φεβ 2026, 2:07:49 π.μ.)
+[2026.02.15-22.07.49:673][147]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_M_Basic_Map
+[2026.02.15-22.07.49:675][147]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002355s)
+[2026.02.15-22.07.49:675][147]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/M_Basic_Map.M_Basic_Map to /Game/Maps/UEDPIE_0_M_Basic_Map.M_Basic_Map (0.002392s)
+[2026.02.15-22.07.49:675][147]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2026.02.15-22.07.49:675][147]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2026.02.15-22.07.49:675][147]LogAIModule: Creating AISystem for world M_Basic_Map
+[2026.02.15-22.07.49:676][147]LogPlayLevel: PIE: World Init took: (0.000863s)
+[2026.02.15-22.07.49:697][147]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2026.02.15-22.07.49:701][147]LogAudio: Display: Creating Audio Device:                 Id: 18, Scope: Unique, Realtime: True
+[2026.02.15-22.07.49:701][147]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.02.15-22.07.49:701][147]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.02.15-22.07.49:701][147]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.02.15-22.07.49:701][147]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.02.15-22.07.49:701][147]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.02.15-22.07.49:701][147]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2026.02.15-22.07.49:701][147]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.02.15-22.07.49:701][147]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.02.15-22.07.49:702][147]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.02.15-22.07.49:702][147]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.02.15-22.07.49:702][147]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.02.15-22.07.49:704][147]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.02.15-22.07.49:723][147]LogAudioMixer: Display: Using Audio Hardware Device LG TV SSCR2 (NVIDIA High Definition Audio)
+[2026.02.15-22.07.49:723][147]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.02.15-22.07.49:723][147]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.02.15-22.07.49:723][147]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.02.15-22.07.49:724][147]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=18
+[2026.02.15-22.07.49:724][147]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=18
+[2026.02.15-22.07.49:727][147]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=18
+[2026.02.15-22.07.49:727][147]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=18
+[2026.02.15-22.07.49:727][147]LogInit: FAudioDevice initialized with ID 18.
+[2026.02.15-22.07.49:727][147]LogAudio: Display: Audio Device (ID: 18) registered with world 'M_Basic_Map'.
+[2026.02.15-22.07.49:727][147]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 18
+[2026.02.15-22.07.49:730][147]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.02.15-22.07.49:731][147]LogWorld: Bringing World /Game/Maps/UEDPIE_0_M_Basic_Map.M_Basic_Map up for play (max tick rate 60) at 2026.02.16-00.07.49
+[2026.02.15-22.07.49:731][147]LogWorld: Bringing up level for play took: 0.000976
+[2026.02.15-22.07.49:734][147]LogOnline: OSS: Created online subsystem instance for: :Context_31
+[2026.02.15-22.07.49:738][147]PIE: Server logged in
+[2026.02.15-22.07.49:739][147]PIE: Play in editor total start time 0,068 seconds.
+[2026.02.15-22.07.49:793][147]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.02.15-22.07.49:793][147]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.02.15-22.07.49:793][147]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.02.15-22.07.49:793][147]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.02.15-22.07.49:795][147]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.02.15-22.07.49:795][147]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.02.15-22.07.49:795][147]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.02.15-22.07.49:795][147]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.02.15-22.07.49:797][147]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.02.15-22.07.49:797][147]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.02.15-22.07.54:707][440]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.15-22.07.54:707][440]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_M_Basic_Map
+[2026.02.15-22.07.54:707][440]LogWorld: UWorld::CleanupWorld for M_Basic_Map, bSessionEnded=true, bCleanupResources=true
+[2026.02.15-22.07.54:708][440]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.15-22.07.54:715][440]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.02.15-22.07.54:718][440]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.15-22.07.54:737][440]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.02.15-22.07.54:737][440]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 18
+[2026.02.15-22.07.54:737][440]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18
+[2026.02.15-22.07.54:740][440]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18
+[2026.02.15-22.07.54:744][440]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.15-22.07.54:747][440]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2026.02.15-22.07.54:773][440]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.02.15-22.07.54:773][440]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.02.15-22.07.54:773][440]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.02.15-22.07.54:773][440]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.02.15-22.07.54:773][440]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.02.15-22.07.54:773][440]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.02.15-22.07.54:773][440]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.02.15-22.07.54:775][440]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.02.15-22.07.54:776][440]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.02.15-22.07.54:777][440]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.02.15-22.07.54:784][441]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2026.02.15-22.09.37:651][629]BlueprintLog: New page: Compile BP_DoorTest
+[2026.02.15-22.09.37:729][629]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2026.02.15-22.09.39:086][707]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.02.15-22.09.39:094][707]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.02.15-22.09.39:094][707]PIE: New page: PIE session: M_Basic_Map (16 Φεβ 2026, 2:09:39 π.μ.)
+[2026.02.15-22.09.39:094][707]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_M_Basic_Map
+[2026.02.15-22.09.39:097][707]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002471s)
+[2026.02.15-22.09.39:097][707]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/M_Basic_Map.M_Basic_Map to /Game/Maps/UEDPIE_0_M_Basic_Map.M_Basic_Map (0.002508s)
+[2026.02.15-22.09.39:097][707]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2026.02.15-22.09.39:097][707]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2026.02.15-22.09.39:098][707]LogAIModule: Creating AISystem for world M_Basic_Map
+[2026.02.15-22.09.39:098][707]LogPlayLevel: PIE: World Init took: (0.001015s)
+[2026.02.15-22.09.39:119][707]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2026.02.15-22.09.39:121][707]LogAudio: Display: Creating Audio Device:                 Id: 19, Scope: Unique, Realtime: True
+[2026.02.15-22.09.39:121][707]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.02.15-22.09.39:121][707]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.02.15-22.09.39:121][707]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.02.15-22.09.39:121][707]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.02.15-22.09.39:121][707]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.02.15-22.09.39:121][707]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2026.02.15-22.09.39:121][707]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.02.15-22.09.39:121][707]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.02.15-22.09.39:122][707]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.02.15-22.09.39:122][707]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.02.15-22.09.39:122][707]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.02.15-22.09.39:124][707]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.02.15-22.09.39:139][707]LogAudioMixer: Display: Using Audio Hardware Device LG TV SSCR2 (NVIDIA High Definition Audio)
+[2026.02.15-22.09.39:139][707]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.02.15-22.09.39:139][707]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.02.15-22.09.39:139][707]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.02.15-22.09.39:140][707]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=19
+[2026.02.15-22.09.39:140][707]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=19
+[2026.02.15-22.09.39:143][707]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=19
+[2026.02.15-22.09.39:143][707]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=19
+[2026.02.15-22.09.39:143][707]LogInit: FAudioDevice initialized with ID 19.
+[2026.02.15-22.09.39:143][707]LogAudio: Display: Audio Device (ID: 19) registered with world 'M_Basic_Map'.
+[2026.02.15-22.09.39:143][707]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 19
+[2026.02.15-22.09.39:192][707]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.15-22.09.39:192][707]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.02.15-22.09.39:193][707]LogWorld: Bringing World /Game/Maps/UEDPIE_0_M_Basic_Map.M_Basic_Map up for play (max tick rate 60) at 2026.02.16-00.09.39
+[2026.02.15-22.09.39:193][707]LogWorld: Bringing up level for play took: 0.001277
+[2026.02.15-22.09.39:197][707]LogOnline: OSS: Created online subsystem instance for: :Context_32
+[2026.02.15-22.09.39:197][707]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2026.02.15-22.09.39:203][707]PIE: Server logged in
+[2026.02.15-22.09.39:205][707]PIE: Play in editor total start time 0,113 seconds.
+[2026.02.15-22.09.39:216][707]LogViewport: Scene viewport resized to 1309x900, mode Windowed.
+[2026.02.15-22.09.44:627][ 26]LogBlueprintUserMessages: [BP_DoorTest_C_1] Hello
+[2026.02.15-22.09.44:643][ 27]LogBlueprintUserMessages: [BP_DoorTest_C_1] Hello
+[2026.02.15-22.09.44:660][ 28]LogBlueprintUserMessages: [BP_DoorTest_C_1] Hello
+[2026.02.15-22.09.44:677][ 29]LogBlueprintUserMessages: [BP_DoorTest_C_1] Hello
+[2026.02.15-22.09.44:696][ 30]LogBlueprintUserMessages: [BP_DoorTest_C_1] Hello
+[2026.02.15-22.09.44:711][ 31]LogBlueprintUserMessages: [BP_DoorTest_C_1] Hello
+[2026.02.15-22.09.44:726][ 32]LogBlueprintUserMessages: [BP_DoorTest_C_1] Hello
+[2026.02.15-22.09.44:745][ 33]LogBlueprintUserMessages: [BP_DoorTest_C_1] Hello
+[2026.02.15-22.09.44:761][ 34]LogBlueprintUserMessages: [BP_DoorTest_C_1] Hello
+[2026.02.15-22.09.44:778][ 35]LogBlueprintUserMessages: [BP_DoorTest_C_1] Hello
+[2026.02.15-22.09.44:794][ 36]LogBlueprintUserMessages: [BP_DoorTest_C_1] Hello
+[2026.02.15-22.09.44:811][ 37]LogBlueprintUserMessages: [BP_DoorTest_C_1] Hello
+[2026.02.15-22.09.44:828][ 38]LogBlueprintUserMessages: [BP_DoorTest_C_1] Hello
+[2026.02.15-22.09.44:844][ 39]LogBlueprintUserMessages: [BP_DoorTest_C_1] Hello
+[2026.02.15-22.09.44:861][ 40]LogBlueprintUserMessages: [BP_DoorTest_C_1] Hello
+[2026.02.15-22.09.44:878][ 41]LogBlueprintUserMessages: [BP_DoorTest_C_1] Hello
+[2026.02.15-22.09.44:894][ 42]LogBlueprintUserMessages: [BP_DoorTest_C_1] Hello
+[2026.02.15-22.09.44:911][ 43]LogBlueprintUserMessages: [BP_DoorTest_C_1] Hello
+[2026.02.15-22.09.44:927][ 44]LogBlueprintUserMessages: [BP_DoorTest_C_1] Hello
+[2026.02.15-22.09.44:945][ 45]LogBlueprintUserMessages: [BP_DoorTest_C_1] Hello
+[2026.02.15-22.09.44:961][ 46]LogBlueprintUserMessages: [BP_DoorTest_C_1] Hello
+[2026.02.15-22.09.44:978][ 47]LogBlueprintUserMessages: [BP_DoorTest_C_1] Hello
+[2026.02.15-22.09.44:994][ 48]LogBlueprintUserMessages: [BP_DoorTest_C_1] Hello
+[2026.02.15-22.09.45:012][ 49]LogBlueprintUserMessages: [BP_DoorTest_C_1] Hello
+[2026.02.15-22.09.45:027][ 50]LogBlueprintUserMessages: [BP_DoorTest_C_1] Hello
+[2026.02.15-22.09.45:045][ 51]LogBlueprintUserMessages: [BP_DoorTest_C_1] Hello
+[2026.02.15-22.09.45:060][ 52]LogBlueprintUserMessages: [BP_DoorTest_C_1] Hello
+[2026.02.15-22.09.45:077][ 53]LogBlueprintUserMessages: [BP_DoorTest_C_1] Hello
+[2026.02.15-22.09.45:094][ 54]LogBlueprintUserMessages: [BP_DoorTest_C_1] Hello
+[2026.02.15-22.09.45:112][ 55]LogBlueprintUserMessages: [BP_DoorTest_C_1] Hello
+[2026.02.15-22.09.45:838][ 97]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.15-22.09.45:838][ 97]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_M_Basic_Map
+[2026.02.15-22.09.45:840][ 97]LogSlate: Window 'Exams Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6)' being destroyed
+[2026.02.15-22.09.45:847][ 97]LogWorld: UWorld::CleanupWorld for M_Basic_Map, bSessionEnded=true, bCleanupResources=true
+[2026.02.15-22.09.45:848][ 97]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.15-22.09.45:857][ 97]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.02.15-22.09.45:863][ 97]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.15-22.09.45:886][ 97]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.02.15-22.09.45:887][ 97]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 19
+[2026.02.15-22.09.45:887][ 97]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19
+[2026.02.15-22.09.45:890][ 97]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19
+[2026.02.15-22.09.45:899][ 97]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2026.02.15-22.09.45:937][ 98]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2026.02.15-22.09.56:416][726]LogEditorTransaction: Undo Move Node
+[2026.02.15-22.09.57:556][772]LogEditorTransaction: Undo Add Node
+[2026.02.15-22.10.10:730][529]BlueprintLog: New page: Compile BP_DoorTest
+[2026.02.15-22.10.10:773][529]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2026.02.15-22.10.11:178][550]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.02.15-22.10.11:179][550]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.02.15-22.10.11:179][550]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.02.15-22.10.11:181][550]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.02.15-22.10.11:181][550]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.02.15-22.10.11:181][550]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.02.15-22.10.11:182][550]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.02.15-22.10.11:182][550]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.02.15-22.10.11:183][550]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.02.15-22.10.11:184][550]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.02.15-22.10.12:262][611]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.02.15-22.10.12:269][611]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.02.15-22.10.12:269][611]PIE: New page: PIE session: M_Basic_Map (16 Φεβ 2026, 2:10:12 π.μ.)
+[2026.02.15-22.10.12:269][611]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_M_Basic_Map
+[2026.02.15-22.10.12:272][611]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002294s)
+[2026.02.15-22.10.12:272][611]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/M_Basic_Map.M_Basic_Map to /Game/Maps/UEDPIE_0_M_Basic_Map.M_Basic_Map (0.002327s)
+[2026.02.15-22.10.12:272][611]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2026.02.15-22.10.12:272][611]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2026.02.15-22.10.12:272][611]LogAIModule: Creating AISystem for world M_Basic_Map
+[2026.02.15-22.10.12:272][611]LogPlayLevel: PIE: World Init took: (0.000723s)
+[2026.02.15-22.10.12:294][611]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2026.02.15-22.10.12:297][611]LogAudio: Display: Creating Audio Device:                 Id: 20, Scope: Unique, Realtime: True
+[2026.02.15-22.10.12:297][611]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.02.15-22.10.12:297][611]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.02.15-22.10.12:297][611]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.02.15-22.10.12:297][611]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.02.15-22.10.12:297][611]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.02.15-22.10.12:297][611]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2026.02.15-22.10.12:297][611]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.02.15-22.10.12:297][611]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.02.15-22.10.12:298][611]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.02.15-22.10.12:298][611]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.02.15-22.10.12:298][611]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.02.15-22.10.12:300][611]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.02.15-22.10.12:315][611]LogAudioMixer: Display: Using Audio Hardware Device LG TV SSCR2 (NVIDIA High Definition Audio)
+[2026.02.15-22.10.12:315][611]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.02.15-22.10.12:315][611]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.02.15-22.10.12:315][611]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.02.15-22.10.12:316][611]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=20
+[2026.02.15-22.10.12:316][611]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=20
+[2026.02.15-22.10.12:319][611]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=20
+[2026.02.15-22.10.12:319][611]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=20
+[2026.02.15-22.10.12:319][611]LogInit: FAudioDevice initialized with ID 20.
+[2026.02.15-22.10.12:319][611]LogAudio: Display: Audio Device (ID: 20) registered with world 'M_Basic_Map'.
+[2026.02.15-22.10.12:319][611]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 20
+[2026.02.15-22.10.12:322][611]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.02.15-22.10.12:323][611]LogWorld: Bringing World /Game/Maps/UEDPIE_0_M_Basic_Map.M_Basic_Map up for play (max tick rate 60) at 2026.02.16-00.10.12
+[2026.02.15-22.10.12:323][611]LogWorld: Bringing up level for play took: 0.000924
+[2026.02.15-22.10.12:326][611]LogOnline: OSS: Created online subsystem instance for: :Context_33
+[2026.02.15-22.10.12:330][611]PIE: Server logged in
+[2026.02.15-22.10.12:330][611]PIE: Play in editor total start time 0,062 seconds.
+[2026.02.15-22.10.12:386][611]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.02.15-22.10.12:386][611]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.02.15-22.10.12:386][611]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.02.15-22.10.12:386][611]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.02.15-22.10.12:387][611]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.02.15-22.10.12:388][611]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.02.15-22.10.12:388][611]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.02.15-22.10.12:388][611]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.02.15-22.10.12:390][611]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.02.15-22.10.12:390][611]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.02.15-22.10.14:776][755]LogBlueprintUserMessages: [BP_DoorTest_C_1] Hello
+[2026.02.15-22.10.16:849][877]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.15-22.10.16:849][877]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_M_Basic_Map
+[2026.02.15-22.10.16:849][877]LogWorld: UWorld::CleanupWorld for M_Basic_Map, bSessionEnded=true, bCleanupResources=true
+[2026.02.15-22.10.16:849][877]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.15-22.10.16:862][877]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.02.15-22.10.16:865][877]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.15-22.10.16:884][877]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.02.15-22.10.16:884][877]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 20
+[2026.02.15-22.10.16:884][877]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20
+[2026.02.15-22.10.16:886][877]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20
+[2026.02.15-22.10.16:890][877]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.15-22.10.16:892][877]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2026.02.15-22.10.16:919][877]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.02.15-22.10.16:920][877]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.02.15-22.10.16:920][877]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.02.15-22.10.16:920][877]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.02.15-22.10.16:921][877]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.02.15-22.10.16:921][877]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.02.15-22.10.16:921][877]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.02.15-22.10.16:921][877]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.02.15-22.10.16:923][877]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.02.15-22.10.16:923][877]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.02.15-22.10.16:931][878]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2026.02.15-22.10.20:598][ 96]LogEditorTransaction: Undo Move Node
+[2026.02.15-22.10.21:291][116]LogEditorTransaction: Undo Add Node
+[2026.02.15-22.10.22:776][195]BlueprintLog: New page: Compile BP_DoorTest
+[2026.02.15-22.10.22:819][195]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2026.02.15-22.11.46:821][996]LogWindowsTextInputMethodSystem: Activated input method: Greek (Greece) - (Keyboard).
+[2026.02.15-22.11.46:821][996]LogWindowsTextInputMethodSystem: Activated input method: Greek (Greece) - (Keyboard).
+[2026.02.15-22.13.12:071][100]BlueprintLog: New page: Compile BP_DoorTest
+[2026.02.15-22.13.12:117][100]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2026.02.15-22.13.13:649][188]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.02.15-22.13.13:656][188]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.02.15-22.13.13:656][188]PIE: New page: PIE session: M_Basic_Map (16 Φεβ 2026, 2:13:13 π.μ.)
+[2026.02.15-22.13.13:656][188]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_M_Basic_Map
+[2026.02.15-22.13.13:659][188]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002425s)
+[2026.02.15-22.13.13:659][188]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/M_Basic_Map.M_Basic_Map to /Game/Maps/UEDPIE_0_M_Basic_Map.M_Basic_Map (0.002460s)
+[2026.02.15-22.13.13:659][188]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2026.02.15-22.13.13:659][188]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2026.02.15-22.13.13:659][188]LogAIModule: Creating AISystem for world M_Basic_Map
+[2026.02.15-22.13.13:659][188]LogPlayLevel: PIE: World Init took: (0.000836s)
+[2026.02.15-22.13.13:681][188]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2026.02.15-22.13.13:683][188]LogAudio: Display: Creating Audio Device:                 Id: 21, Scope: Unique, Realtime: True
+[2026.02.15-22.13.13:683][188]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.02.15-22.13.13:683][188]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.02.15-22.13.13:683][188]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.02.15-22.13.13:683][188]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.02.15-22.13.13:684][188]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.02.15-22.13.13:684][188]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2026.02.15-22.13.13:684][188]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.02.15-22.13.13:684][188]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.02.15-22.13.13:684][188]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.02.15-22.13.13:684][188]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.02.15-22.13.13:684][188]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.02.15-22.13.13:687][188]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.02.15-22.13.13:703][188]LogAudioMixer: Display: Using Audio Hardware Device LG TV SSCR2 (NVIDIA High Definition Audio)
+[2026.02.15-22.13.13:703][188]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.02.15-22.13.13:703][188]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.02.15-22.13.13:703][188]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.02.15-22.13.13:704][188]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=21
+[2026.02.15-22.13.13:704][188]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=21
+[2026.02.15-22.13.13:706][188]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=21
+[2026.02.15-22.13.13:706][188]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=21
+[2026.02.15-22.13.13:706][188]LogInit: FAudioDevice initialized with ID 21.
+[2026.02.15-22.13.13:706][188]LogAudio: Display: Audio Device (ID: 21) registered with world 'M_Basic_Map'.
+[2026.02.15-22.13.13:706][188]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 21
+[2026.02.15-22.13.13:757][188]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.15-22.13.13:758][188]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.02.15-22.13.13:759][188]LogWorld: Bringing World /Game/Maps/UEDPIE_0_M_Basic_Map.M_Basic_Map up for play (max tick rate 60) at 2026.02.16-00.13.13
+[2026.02.15-22.13.13:759][188]LogWorld: Bringing up level for play took: 0.001343
+[2026.02.15-22.13.13:762][188]LogOnline: OSS: Created online subsystem instance for: :Context_34
+[2026.02.15-22.13.13:762][188]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2026.02.15-22.13.13:769][188]PIE: Server logged in
+[2026.02.15-22.13.13:769][188]PIE: Play in editor total start time 0,115 seconds.
+[2026.02.15-22.13.13:781][188]LogViewport: Scene viewport resized to 1314x930, mode Windowed.
+[2026.02.15-22.13.20:403][577]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.15-22.13.20:403][577]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_M_Basic_Map
+[2026.02.15-22.13.20:404][577]LogSlate: Window 'Exams Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6)' being destroyed
+[2026.02.15-22.13.20:412][577]LogWorld: UWorld::CleanupWorld for M_Basic_Map, bSessionEnded=true, bCleanupResources=true
+[2026.02.15-22.13.20:412][577]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.15-22.13.20:422][577]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.02.15-22.13.20:425][577]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.15-22.13.20:446][577]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.02.15-22.13.20:446][577]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 21
+[2026.02.15-22.13.20:446][577]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=21
+[2026.02.15-22.13.20:448][577]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=21
+[2026.02.15-22.13.20:456][577]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2026.02.15-22.13.20:487][578]LogPlayLevel: Display: Destroying online subsystem :Context_34
+[2026.02.15-22.13.22:019][670]LogEditorTransaction: Undo Create Pin Link
+[2026.02.15-22.13.23:710][749]BlueprintLog: New page: Compile BP_DoorTest
+[2026.02.15-22.13.23:754][749]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2026.02.15-22.15.37:399][753]BlueprintLog: New page: Compile BP_DoorTest
+[2026.02.15-22.15.37:446][753]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2026.02.15-22.15.38:502][813]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.02.15-22.15.38:508][813]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.02.15-22.15.38:508][813]PIE: New page: PIE session: M_Basic_Map (16 Φεβ 2026, 2:15:38 π.μ.)
+[2026.02.15-22.15.38:508][813]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_M_Basic_Map
+[2026.02.15-22.15.38:512][813]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002331s)
+[2026.02.15-22.15.38:512][813]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/M_Basic_Map.M_Basic_Map to /Game/Maps/UEDPIE_0_M_Basic_Map.M_Basic_Map (0.002362s)
+[2026.02.15-22.15.38:512][813]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2026.02.15-22.15.38:512][813]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2026.02.15-22.15.38:512][813]LogAIModule: Creating AISystem for world M_Basic_Map
+[2026.02.15-22.15.38:513][813]LogPlayLevel: PIE: World Init took: (0.000845s)
+[2026.02.15-22.15.38:533][813]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2026.02.15-22.15.38:535][813]LogAudio: Display: Creating Audio Device:                 Id: 22, Scope: Unique, Realtime: True
+[2026.02.15-22.15.38:535][813]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.02.15-22.15.38:535][813]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.02.15-22.15.38:535][813]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.02.15-22.15.38:535][813]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.02.15-22.15.38:535][813]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.02.15-22.15.38:535][813]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2026.02.15-22.15.38:535][813]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.02.15-22.15.38:535][813]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.02.15-22.15.38:535][813]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.02.15-22.15.38:535][813]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.02.15-22.15.38:535][813]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.02.15-22.15.38:538][813]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.02.15-22.15.38:556][813]LogAudioMixer: Display: Using Audio Hardware Device LG TV SSCR2 (NVIDIA High Definition Audio)
+[2026.02.15-22.15.38:557][813]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.02.15-22.15.38:557][813]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.02.15-22.15.38:557][813]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.02.15-22.15.38:558][813]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=22
+[2026.02.15-22.15.38:558][813]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=22
+[2026.02.15-22.15.38:560][813]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=22
+[2026.02.15-22.15.38:560][813]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=22
+[2026.02.15-22.15.38:561][813]LogInit: FAudioDevice initialized with ID 22.
+[2026.02.15-22.15.38:561][813]LogAudio: Display: Audio Device (ID: 22) registered with world 'M_Basic_Map'.
+[2026.02.15-22.15.38:561][813]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 22
+[2026.02.15-22.15.38:605][813]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.15-22.15.38:605][813]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.02.15-22.15.38:606][813]LogWorld: Bringing World /Game/Maps/UEDPIE_0_M_Basic_Map.M_Basic_Map up for play (max tick rate 60) at 2026.02.16-00.15.38
+[2026.02.15-22.15.38:606][813]LogWorld: Bringing up level for play took: 0.001194
+[2026.02.15-22.15.38:609][813]LogOnline: OSS: Created online subsystem instance for: :Context_35
+[2026.02.15-22.15.38:610][813]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2026.02.15-22.15.38:615][813]PIE: Server logged in
+[2026.02.15-22.15.38:616][813]PIE: Play in editor total start time 0,109 seconds.
+[2026.02.15-22.15.38:721][813]LogViewport: Scene viewport resized to 1319x960, mode Windowed.
+[2026.02.15-22.15.44:916][181]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.15-22.15.44:916][181]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_M_Basic_Map
+[2026.02.15-22.15.44:917][181]LogSlate: Window 'Exams Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6)' being destroyed
+[2026.02.15-22.15.44:926][181]LogWorld: UWorld::CleanupWorld for M_Basic_Map, bSessionEnded=true, bCleanupResources=true
+[2026.02.15-22.15.44:926][181]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.15-22.15.44:936][181]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.02.15-22.15.44:940][181]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.15-22.15.44:963][181]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.02.15-22.15.44:963][181]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 22
+[2026.02.15-22.15.44:963][181]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=22
+[2026.02.15-22.15.44:965][181]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=22
+[2026.02.15-22.15.44:973][181]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2026.02.15-22.15.45:004][182]LogPlayLevel: Display: Destroying online subsystem :Context_35
+[2026.02.15-22.15.47:550][334]LogEditorTransaction: Undo Create Pin Link
+[2026.02.15-22.15.49:083][405]BlueprintLog: New page: Compile BP_DoorTest
+[2026.02.15-22.15.49:128][405]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2026.02.15-22.15.50:863][505]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2026.02.15-22.15.50:885][505]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2026.02.15-22.15.52:091][505]LogSlate: Window 'Save Content' being destroyed
+[2026.02.15-22.15.52:101][505]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.15-22.15.52:198][505]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/M_Basic_Map" FILE="../../../../../../Users/Alexander/Documents/GitHub/Exams/Exams/Content/Maps/M_Basic_Map.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2026.02.15-22.15.52:218][505]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2026.02.15-22.15.52:227][505]LogSavePackage: Moving output files for package: /Game/Maps/M_Basic_Map
+[2026.02.15-22.15.52:228][505]LogSavePackage: Moving '../../../../../../Users/Alexander/Documents/GitHub/Exams/Exams/Saved/M_Basic_MapA634133349A2C1893E0C2E9F9E886165.tmp' to '../../../../../../Users/Alexander/Documents/GitHub/Exams/Exams/Content/Maps/M_Basic_Map.umap'
+[2026.02.15-22.15.52:232][505]LogFileHelpers: Saving map 'M_Basic_Map' took 0.035
+[2026.02.15-22.15.52:247][505]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Core/Props/BP_DoorTest" FILE="../../../../../../Users/Alexander/Documents/GitHub/Exams/Exams/Content/Core/Props/BP_DoorTest.uasset" SILENT=true
+[2026.02.15-22.15.52:252][505]LogSavePackage: Moving output files for package: /Game/Core/Props/BP_DoorTest
+[2026.02.15-22.15.52:253][505]LogSavePackage: Moving '../../../../../../Users/Alexander/Documents/GitHub/Exams/Exams/Saved/BP_DoorTest1C0BAB9F47461B9BF4BF098D2704484D.tmp' to '../../../../../../Users/Alexander/Documents/GitHub/Exams/Exams/Content/Core/Props/BP_DoorTest.uasset'
+[2026.02.15-22.15.52:278][505]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2026.02.15-22.15.52:278][505]LogSavePackage: Moving '../../../../../../Users/Alexander/Documents/GitHub/Exams/Exams/Saved/BP_ThirdPersonCharacterC800187741998B00E24DED95DC798E10.tmp' to '../../../../../../Users/Alexander/Documents/GitHub/Exams/Exams/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2026.02.15-22.15.52:289][505]LogFileHelpers: InternalPromptForCheckoutAndSave took 187 ms (total: 5.10 sec)
+[2026.02.15-22.15.52:295][505]AssetCheck: New page: Asset Save: multiple assets
+[2026.02.15-22.15.52:295][505]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2026.02.15-22.15.52:295][505]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/M_Basic_Map.M_Basic_Map
+[2026.02.15-22.15.52:295][505]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Core/Props/BP_DoorTest.BP_DoorTest
+[2026.02.15-22.17.36:805][735]LogWindowsTextInputMethodSystem: Activated input method: English (United States) - (Keyboard).
+[2026.02.15-22.17.36:805][735]LogWindowsTextInputMethodSystem: Activated input method: English (United States) - (Keyboard).
+[2026.02.15-22.17.55:393][835]BlueprintLog: New page: Compile BP_DoorTest
+[2026.02.15-22.17.55:475][835]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2026.02.15-22.17.57:034][923]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.02.15-22.17.57:041][923]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.02.15-22.17.57:041][923]PIE: New page: PIE session: M_Basic_Map (16 Φεβ 2026, 2:17:57 π.μ.)
+[2026.02.15-22.17.57:041][923]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_M_Basic_Map
+[2026.02.15-22.17.57:044][923]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002278s)
+[2026.02.15-22.17.57:044][923]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/M_Basic_Map.M_Basic_Map to /Game/Maps/UEDPIE_0_M_Basic_Map.M_Basic_Map (0.002314s)
+[2026.02.15-22.17.57:044][923]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2026.02.15-22.17.57:044][923]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2026.02.15-22.17.57:044][923]LogAIModule: Creating AISystem for world M_Basic_Map
+[2026.02.15-22.17.57:044][923]LogPlayLevel: PIE: World Init took: (0.000725s)
+[2026.02.15-22.17.57:065][923]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2026.02.15-22.17.57:068][923]LogAudio: Display: Creating Audio Device:                 Id: 23, Scope: Unique, Realtime: True
+[2026.02.15-22.17.57:068][923]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.02.15-22.17.57:068][923]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.02.15-22.17.57:068][923]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.02.15-22.17.57:068][923]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.02.15-22.17.57:068][923]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.02.15-22.17.57:068][923]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2026.02.15-22.17.57:068][923]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.02.15-22.17.57:068][923]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.02.15-22.17.57:068][923]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.02.15-22.17.57:068][923]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.02.15-22.17.57:068][923]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.02.15-22.17.57:071][923]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.02.15-22.17.57:087][923]LogAudioMixer: Display: Using Audio Hardware Device LG TV SSCR2 (NVIDIA High Definition Audio)
+[2026.02.15-22.17.57:087][923]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.02.15-22.17.57:087][923]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.02.15-22.17.57:087][923]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.02.15-22.17.57:088][923]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=23
+[2026.02.15-22.17.57:088][923]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=23
+[2026.02.15-22.17.57:090][923]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=23
+[2026.02.15-22.17.57:090][923]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=23
+[2026.02.15-22.17.57:090][923]LogInit: FAudioDevice initialized with ID 23.
+[2026.02.15-22.17.57:090][923]LogAudio: Display: Audio Device (ID: 23) registered with world 'M_Basic_Map'.
+[2026.02.15-22.17.57:090][923]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 23
+[2026.02.15-22.17.57:143][923]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.15-22.17.57:143][923]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.02.15-22.17.57:144][923]LogWorld: Bringing World /Game/Maps/UEDPIE_0_M_Basic_Map.M_Basic_Map up for play (max tick rate 60) at 2026.02.16-00.17.57
+[2026.02.15-22.17.57:145][923]LogWorld: Bringing up level for play took: 0.001505
+[2026.02.15-22.17.57:147][923]LogOnline: OSS: Created online subsystem instance for: :Context_36
+[2026.02.15-22.17.57:148][923]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2026.02.15-22.17.57:153][923]PIE: Server logged in
+[2026.02.15-22.17.57:154][923]PIE: Play in editor total start time 0,115 seconds.
+[2026.02.15-22.17.57:165][923]LogViewport: Scene viewport resized to 1324x990, mode Windowed.
+[2026.02.15-22.18.02:756][255]LogBlueprintUserMessages: [BP_DoorTest_C_1] Hello
+[2026.02.15-22.18.03:390][293]LogBlueprintUserMessages: [BP_DoorTest_C_1] Hello
+[2026.02.15-22.18.07:079][512]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.15-22.18.07:079][512]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_M_Basic_Map
+[2026.02.15-22.18.07:082][512]LogSlate: Window 'Exams Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6)' being destroyed
+[2026.02.15-22.18.07:088][512]LogWorld: UWorld::CleanupWorld for M_Basic_Map, bSessionEnded=true, bCleanupResources=true
+[2026.02.15-22.18.07:088][512]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.15-22.18.07:098][512]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.02.15-22.18.07:102][512]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.15-22.18.07:124][512]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.02.15-22.18.07:124][512]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 23
+[2026.02.15-22.18.07:124][512]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=23
+[2026.02.15-22.18.07:126][512]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=23
+[2026.02.15-22.18.07:133][512]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2026.02.15-22.18.07:168][513]LogPlayLevel: Display: Destroying online subsystem :Context_36
+[2026.02.15-22.19.06:239][ 44]BlueprintLog: New page: Compile BP_DoorTest
+[2026.02.15-22.19.06:286][ 44]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2026.02.15-22.19.07:476][112]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.15-22.19.07:549][112]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Core/Props/BP_DoorTest" FILE="../../../../../../Users/Alexander/Documents/GitHub/Exams/Exams/Content/Core/Props/BP_DoorTest.uasset" SILENT=true
+[2026.02.15-22.19.07:555][112]LogSavePackage: Moving output files for package: /Game/Core/Props/BP_DoorTest
+[2026.02.15-22.19.07:555][112]LogSavePackage: Moving '../../../../../../Users/Alexander/Documents/GitHub/Exams/Exams/Saved/BP_DoorTest7CC2AB2345E227612ACF9CA3B14523A8.tmp' to '../../../../../../Users/Alexander/Documents/GitHub/Exams/Exams/Content/Core/Props/BP_DoorTest.uasset'
+[2026.02.15-22.19.07:563][112]LogFileHelpers: InternalPromptForCheckoutAndSave took 88 ms (total: 5.19 sec)
+[2026.02.15-22.19.07:569][112]AssetCheck: New page: Asset Save: BP_DoorTest
+[2026.02.15-22.19.07:569][112]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Core/Props/BP_DoorTest.BP_DoorTest
+[2026.02.15-22.21.01:814][965]LogD3D12RHI: Warning: Descriptor cache ran out of sub allocated descriptor blocks! Moving to Context local View heap strategy
+[2026.02.15-22.21.01:814][965]LogD3D12RHI: This should only happen in the Editor where it doesn't matter as much. If it happens in game you should increase the device global heap size!
+[2026.02.15-22.23.04:159][595]LogD3D12RHI: OnlineHeap RollOver Detected. Increase the heap size to prevent creation of additional heaps
+[2026.02.15-22.23.53:130][498]BlueprintLog: New page: Compile BP_DoorTest
+[2026.02.15-22.23.53:180][498]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2026.02.15-22.24.14:424][755]BlueprintLog: New page: Compile BP_DoorTest
+[2026.02.15-22.24.14:510][755]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2026.02.15-22.25.01:661][560]BlueprintLog: New page: Compile BP_DoorTest
+[2026.02.15-22.25.01:711][560]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2026.02.15-22.25.36:171][595]BlueprintLog: New page: Compile BP_DoorTest
+[2026.02.15-22.25.36:216][595]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2026.02.15-22.25.52:526][565]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.02.15-22.25.52:534][565]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.02.15-22.25.52:534][565]PIE: New page: PIE session: M_Basic_Map (16 Φεβ 2026, 2:25:52 π.μ.)
+[2026.02.15-22.25.52:534][565]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_M_Basic_Map
+[2026.02.15-22.25.52:537][565]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002323s)
+[2026.02.15-22.25.52:537][565]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/M_Basic_Map.M_Basic_Map to /Game/Maps/UEDPIE_0_M_Basic_Map.M_Basic_Map (0.002359s)
+[2026.02.15-22.25.52:537][565]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2026.02.15-22.25.52:537][565]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2026.02.15-22.25.52:537][565]LogAIModule: Creating AISystem for world M_Basic_Map
+[2026.02.15-22.25.52:537][565]LogPlayLevel: PIE: World Init took: (0.000829s)
+[2026.02.15-22.25.52:558][565]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2026.02.15-22.25.52:560][565]LogAudio: Display: Creating Audio Device:                 Id: 24, Scope: Unique, Realtime: True
+[2026.02.15-22.25.52:560][565]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.02.15-22.25.52:560][565]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.02.15-22.25.52:560][565]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.02.15-22.25.52:560][565]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.02.15-22.25.52:560][565]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.02.15-22.25.52:560][565]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2026.02.15-22.25.52:560][565]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.02.15-22.25.52:560][565]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.02.15-22.25.52:560][565]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.02.15-22.25.52:560][565]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.02.15-22.25.52:560][565]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.02.15-22.25.52:563][565]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.02.15-22.25.52:580][565]LogAudioMixer: Display: Using Audio Hardware Device LG TV SSCR2 (NVIDIA High Definition Audio)
+[2026.02.15-22.25.52:581][565]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.02.15-22.25.52:581][565]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.02.15-22.25.52:581][565]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.02.15-22.25.52:582][565]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=24
+[2026.02.15-22.25.52:582][565]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=24
+[2026.02.15-22.25.52:584][565]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=24
+[2026.02.15-22.25.52:584][565]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=24
+[2026.02.15-22.25.52:584][565]LogInit: FAudioDevice initialized with ID 24.
+[2026.02.15-22.25.52:584][565]LogAudio: Display: Audio Device (ID: 24) registered with world 'M_Basic_Map'.
+[2026.02.15-22.25.52:584][565]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 24
+[2026.02.15-22.25.52:632][565]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.15-22.25.52:632][565]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.02.15-22.25.52:634][565]LogWorld: Bringing World /Game/Maps/UEDPIE_0_M_Basic_Map.M_Basic_Map up for play (max tick rate 60) at 2026.02.16-00.25.52
+[2026.02.15-22.25.52:634][565]LogWorld: Bringing up level for play took: 0.001880
+[2026.02.15-22.25.52:638][565]LogOnline: OSS: Created online subsystem instance for: :Context_37
+[2026.02.15-22.25.52:638][565]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2026.02.15-22.25.52:644][565]PIE: Server logged in
+[2026.02.15-22.25.52:645][565]PIE: Play in editor total start time 0,113 seconds.
+[2026.02.15-22.25.52:659][565]LogViewport: Scene viewport resized to 1329x1020, mode Windowed.
+[2026.02.15-22.25.55:607][736]LogBlueprintUserMessages: [BP_DoorTest_C_1] Press E to unlcok
+[2026.02.15-22.25.57:638][856]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.15-22.25.57:638][856]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_M_Basic_Map
+[2026.02.15-22.25.57:639][856]LogSlate: Window 'Exams Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6)' being destroyed
+[2026.02.15-22.25.57:645][856]LogWorld: UWorld::CleanupWorld for M_Basic_Map, bSessionEnded=true, bCleanupResources=true
+[2026.02.15-22.25.57:645][856]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.15-22.25.57:658][856]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.02.15-22.25.57:661][856]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.15-22.25.57:684][856]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.02.15-22.25.57:684][856]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 24
+[2026.02.15-22.25.57:685][856]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=24
+[2026.02.15-22.25.57:687][856]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=24
+[2026.02.15-22.25.57:694][856]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2026.02.15-22.25.57:734][857]LogPlayLevel: Display: Destroying online subsystem :Context_37
+[2026.02.15-22.26.00:893][ 44]LogViewport: Scene viewport resized to 1523x966, mode Windowed.
+[2026.02.15-22.26.15:379][908]BlueprintLog: New page: Compile BP_DoorTest
+[2026.02.15-22.26.15:448][908]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2026.02.15-22.26.16:081][938]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.02.15-22.26.16:081][938]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.02.15-22.26.16:081][938]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.02.15-22.26.16:082][938]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.02.15-22.26.16:082][938]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.02.15-22.26.16:083][938]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.02.15-22.26.16:083][938]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.02.15-22.26.16:083][938]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.02.15-22.26.16:085][938]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.02.15-22.26.16:086][938]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.02.15-22.26.17:464][ 19]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.02.15-22.26.17:471][ 19]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.02.15-22.26.17:471][ 19]PIE: New page: PIE session: M_Basic_Map (16 Φεβ 2026, 2:26:17 π.μ.)
+[2026.02.15-22.26.17:471][ 19]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_M_Basic_Map
+[2026.02.15-22.26.17:474][ 19]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002372s)
+[2026.02.15-22.26.17:474][ 19]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/M_Basic_Map.M_Basic_Map to /Game/Maps/UEDPIE_0_M_Basic_Map.M_Basic_Map (0.002414s)
+[2026.02.15-22.26.17:474][ 19]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2026.02.15-22.26.17:474][ 19]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2026.02.15-22.26.17:474][ 19]LogAIModule: Creating AISystem for world M_Basic_Map
+[2026.02.15-22.26.17:474][ 19]LogPlayLevel: PIE: World Init took: (0.000718s)
+[2026.02.15-22.26.17:495][ 19]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2026.02.15-22.26.17:498][ 19]LogAudio: Display: Creating Audio Device:                 Id: 25, Scope: Unique, Realtime: True
+[2026.02.15-22.26.17:498][ 19]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.02.15-22.26.17:498][ 19]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.02.15-22.26.17:498][ 19]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.02.15-22.26.17:498][ 19]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.02.15-22.26.17:498][ 19]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.02.15-22.26.17:498][ 19]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2026.02.15-22.26.17:498][ 19]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.02.15-22.26.17:498][ 19]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.02.15-22.26.17:498][ 19]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.02.15-22.26.17:498][ 19]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.02.15-22.26.17:498][ 19]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.02.15-22.26.17:501][ 19]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.02.15-22.26.17:515][ 19]LogAudioMixer: Display: Using Audio Hardware Device LG TV SSCR2 (NVIDIA High Definition Audio)
+[2026.02.15-22.26.17:515][ 19]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.02.15-22.26.17:515][ 19]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.02.15-22.26.17:515][ 19]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.02.15-22.26.17:516][ 19]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=25
+[2026.02.15-22.26.17:516][ 19]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=25
+[2026.02.15-22.26.17:519][ 19]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=25
+[2026.02.15-22.26.17:519][ 19]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=25
+[2026.02.15-22.26.17:519][ 19]LogInit: FAudioDevice initialized with ID 25.
+[2026.02.15-22.26.17:519][ 19]LogAudio: Display: Audio Device (ID: 25) registered with world 'M_Basic_Map'.
+[2026.02.15-22.26.17:519][ 19]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 25
+[2026.02.15-22.26.17:523][ 19]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.02.15-22.26.17:524][ 19]LogWorld: Bringing World /Game/Maps/UEDPIE_0_M_Basic_Map.M_Basic_Map up for play (max tick rate 60) at 2026.02.16-00.26.17
+[2026.02.15-22.26.17:524][ 19]LogWorld: Bringing up level for play took: 0.000927
+[2026.02.15-22.26.17:526][ 19]LogOnline: OSS: Created online subsystem instance for: :Context_38
+[2026.02.15-22.26.17:529][ 19]PIE: Server logged in
+[2026.02.15-22.26.17:530][ 19]PIE: Play in editor total start time 0,062 seconds.
+[2026.02.15-22.26.17:585][ 19]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.02.15-22.26.17:585][ 19]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.02.15-22.26.17:585][ 19]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.02.15-22.26.17:586][ 19]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.02.15-22.26.17:586][ 19]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.02.15-22.26.17:586][ 19]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.02.15-22.26.17:586][ 19]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.02.15-22.26.17:587][ 19]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.02.15-22.26.17:588][ 19]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.02.15-22.26.17:589][ 19]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.02.15-22.26.17:592][ 20]LogBlueprintUserMessages: [BP_DoorTest_C_1] Press E to unlcok
+[2026.02.15-22.26.23:276][361]LogBlueprintUserMessages: [BP_DoorTest_C_1] Press E to unlcok
+[2026.02.15-22.26.24:708][445]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.15-22.26.24:709][445]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_M_Basic_Map
+[2026.02.15-22.26.24:709][445]LogWorld: UWorld::CleanupWorld for M_Basic_Map, bSessionEnded=true, bCleanupResources=true
+[2026.02.15-22.26.24:709][445]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.15-22.26.24:716][445]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.02.15-22.26.24:720][445]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.15-22.26.24:738][445]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.02.15-22.26.24:739][445]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 25
+[2026.02.15-22.26.24:739][445]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=25
+[2026.02.15-22.26.24:741][445]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=25
+[2026.02.15-22.26.24:745][445]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.15-22.26.24:747][445]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2026.02.15-22.26.24:774][445]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.02.15-22.26.24:774][445]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.02.15-22.26.24:774][445]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.02.15-22.26.24:775][445]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.02.15-22.26.24:775][445]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.02.15-22.26.24:775][445]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.02.15-22.26.24:776][445]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.02.15-22.26.24:776][445]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.02.15-22.26.24:777][445]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.02.15-22.26.24:777][445]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.02.15-22.26.24:786][446]LogPlayLevel: Display: Destroying online subsystem :Context_38
+[2026.02.15-22.27.07:472][991]BlueprintLog: New page: Compile BP_DoorTest
+[2026.02.15-22.27.07:518][991]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2026.02.15-22.27.08:546][ 49]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.02.15-22.27.08:554][ 49]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.02.15-22.27.08:554][ 49]PIE: New page: PIE session: M_Basic_Map (16 Φεβ 2026, 2:27:08 π.μ.)
+[2026.02.15-22.27.08:554][ 49]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_M_Basic_Map
+[2026.02.15-22.27.08:556][ 49]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002426s)
+[2026.02.15-22.27.08:556][ 49]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/M_Basic_Map.M_Basic_Map to /Game/Maps/UEDPIE_0_M_Basic_Map.M_Basic_Map (0.002486s)
+[2026.02.15-22.27.08:556][ 49]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2026.02.15-22.27.08:556][ 49]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2026.02.15-22.27.08:557][ 49]LogAIModule: Creating AISystem for world M_Basic_Map
+[2026.02.15-22.27.08:557][ 49]LogPlayLevel: PIE: World Init took: (0.000766s)
+[2026.02.15-22.27.08:578][ 49]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2026.02.15-22.27.08:580][ 49]LogAudio: Display: Creating Audio Device:                 Id: 26, Scope: Unique, Realtime: True
+[2026.02.15-22.27.08:580][ 49]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.02.15-22.27.08:580][ 49]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.02.15-22.27.08:580][ 49]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.02.15-22.27.08:580][ 49]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.02.15-22.27.08:580][ 49]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.02.15-22.27.08:580][ 49]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2026.02.15-22.27.08:580][ 49]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.02.15-22.27.08:580][ 49]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.02.15-22.27.08:580][ 49]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.02.15-22.27.08:580][ 49]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.02.15-22.27.08:580][ 49]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.02.15-22.27.08:584][ 49]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.02.15-22.27.08:598][ 49]LogAudioMixer: Display: Using Audio Hardware Device LG TV SSCR2 (NVIDIA High Definition Audio)
+[2026.02.15-22.27.08:598][ 49]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.02.15-22.27.08:598][ 49]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.02.15-22.27.08:598][ 49]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.02.15-22.27.08:599][ 49]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=26
+[2026.02.15-22.27.08:599][ 49]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=26
+[2026.02.15-22.27.08:602][ 49]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=26
+[2026.02.15-22.27.08:602][ 49]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=26
+[2026.02.15-22.27.08:602][ 49]LogInit: FAudioDevice initialized with ID 26.
+[2026.02.15-22.27.08:602][ 49]LogAudio: Display: Audio Device (ID: 26) registered with world 'M_Basic_Map'.
+[2026.02.15-22.27.08:602][ 49]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 26
+[2026.02.15-22.27.08:649][ 49]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.15-22.27.08:649][ 49]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.02.15-22.27.08:651][ 49]LogWorld: Bringing World /Game/Maps/UEDPIE_0_M_Basic_Map.M_Basic_Map up for play (max tick rate 60) at 2026.02.16-00.27.08
+[2026.02.15-22.27.08:651][ 49]LogWorld: Bringing up level for play took: 0.001364
+[2026.02.15-22.27.08:654][ 49]LogOnline: OSS: Created online subsystem instance for: :Context_39
+[2026.02.15-22.27.08:654][ 49]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2026.02.15-22.27.08:661][ 49]PIE: Server logged in
+[2026.02.15-22.27.08:663][ 49]PIE: Play in editor total start time 0,111 seconds.
+[2026.02.15-22.27.08:674][ 49]LogViewport: Scene viewport resized to 1334x1050, mode Windowed.
+[2026.02.15-22.27.11:227][199]LogBlueprintUserMessages: [BP_DoorTest_C_1] Press E to unlcok
+[2026.02.15-22.27.16:389][507]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.15-22.27.16:389][507]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_M_Basic_Map
+[2026.02.15-22.27.16:390][507]LogSlate: Window 'Exams Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6)' being destroyed
+[2026.02.15-22.27.16:397][507]LogWorld: UWorld::CleanupWorld for M_Basic_Map, bSessionEnded=true, bCleanupResources=true
+[2026.02.15-22.27.16:397][507]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.15-22.27.16:409][507]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.02.15-22.27.16:413][507]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.15-22.27.16:434][507]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.02.15-22.27.16:435][507]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 26
+[2026.02.15-22.27.16:435][507]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=26
+[2026.02.15-22.27.16:437][507]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=26
+[2026.02.15-22.27.16:445][507]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2026.02.15-22.27.16:481][508]LogPlayLevel: Display: Destroying online subsystem :Context_39
+[2026.02.15-22.27.26:249][ 91]BlueprintLog: New page: Compile BP_DoorTest
+[2026.02.15-22.27.26:292][ 91]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2026.02.15-22.27.27:053][133]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.02.15-22.27.27:059][133]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.02.15-22.27.27:059][133]PIE: New page: PIE session: M_Basic_Map (16 Φεβ 2026, 2:27:27 π.μ.)
+[2026.02.15-22.27.27:059][133]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_M_Basic_Map
+[2026.02.15-22.27.27:062][133]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002364s)
+[2026.02.15-22.27.27:062][133]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/M_Basic_Map.M_Basic_Map to /Game/Maps/UEDPIE_0_M_Basic_Map.M_Basic_Map (0.002397s)
+[2026.02.15-22.27.27:062][133]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2026.02.15-22.27.27:062][133]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2026.02.15-22.27.27:062][133]LogAIModule: Creating AISystem for world M_Basic_Map
+[2026.02.15-22.27.27:062][133]LogPlayLevel: PIE: World Init took: (0.000718s)
+[2026.02.15-22.27.27:083][133]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2026.02.15-22.27.27:086][133]LogAudio: Display: Creating Audio Device:                 Id: 27, Scope: Unique, Realtime: True
+[2026.02.15-22.27.27:086][133]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.02.15-22.27.27:086][133]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.02.15-22.27.27:086][133]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.02.15-22.27.27:086][133]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.02.15-22.27.27:086][133]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.02.15-22.27.27:086][133]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2026.02.15-22.27.27:086][133]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.02.15-22.27.27:086][133]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.02.15-22.27.27:087][133]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.02.15-22.27.27:087][133]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.02.15-22.27.27:087][133]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.02.15-22.27.27:089][133]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.02.15-22.27.27:103][133]LogAudioMixer: Display: Using Audio Hardware Device LG TV SSCR2 (NVIDIA High Definition Audio)
+[2026.02.15-22.27.27:103][133]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.02.15-22.27.27:103][133]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.02.15-22.27.27:103][133]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.02.15-22.27.27:104][133]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=27
+[2026.02.15-22.27.27:104][133]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=27
+[2026.02.15-22.27.27:107][133]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=27
+[2026.02.15-22.27.27:107][133]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=27
+[2026.02.15-22.27.27:107][133]LogInit: FAudioDevice initialized with ID 27.
+[2026.02.15-22.27.27:107][133]LogAudio: Display: Audio Device (ID: 27) registered with world 'M_Basic_Map'.
+[2026.02.15-22.27.27:107][133]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 27
+[2026.02.15-22.27.27:152][133]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.15-22.27.27:152][133]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.02.15-22.27.27:154][133]LogWorld: Bringing World /Game/Maps/UEDPIE_0_M_Basic_Map.M_Basic_Map up for play (max tick rate 60) at 2026.02.16-00.27.27
+[2026.02.15-22.27.27:154][133]LogWorld: Bringing up level for play took: 0.001133
+[2026.02.15-22.27.27:156][133]LogOnline: OSS: Created online subsystem instance for: :Context_40
+[2026.02.15-22.27.27:156][133]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2026.02.15-22.27.27:162][133]PIE: Server logged in
+[2026.02.15-22.27.27:164][133]PIE: Play in editor total start time 0,106 seconds.
+[2026.02.15-22.27.27:175][133]LogViewport: Scene viewport resized to 1339x1080, mode Windowed.
+[2026.02.15-22.27.29:464][267]LogBlueprintUserMessages: [BP_DoorTest_C_1] Press E to unlcok
+[2026.02.15-22.27.34:297][557]LogBlueprintUserMessages: [BP_DoorTest_C_1] Press E to unlcok
+[2026.02.15-22.27.37:981][778]LogBlueprintUserMessages: [BP_DoorTest_C_1] Press E to unlcok
+[2026.02.15-22.27.41:765][  5]LogBlueprintUserMessages: [BP_DoorTest_C_1] Press E to unlcok
+[2026.02.15-22.27.44:661][177]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.15-22.27.44:661][177]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_M_Basic_Map
+[2026.02.15-22.27.44:661][177]LogSlate: Window 'Exams Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6)' being destroyed
+[2026.02.15-22.27.44:669][177]LogWorld: UWorld::CleanupWorld for M_Basic_Map, bSessionEnded=true, bCleanupResources=true
+[2026.02.15-22.27.44:670][177]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.15-22.27.44:681][177]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.02.15-22.27.44:685][177]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.15-22.27.44:707][177]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.02.15-22.27.44:708][177]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 27
+[2026.02.15-22.27.44:708][177]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=27
+[2026.02.15-22.27.44:711][177]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=27
+[2026.02.15-22.27.44:719][177]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2026.02.15-22.27.44:753][178]LogPlayLevel: Display: Destroying online subsystem :Context_40
+[2026.02.15-22.27.53:331][531]LogSlate: Window 'Color Picker' being destroyed
+[2026.02.15-22.27.54:160][580]BlueprintLog: New page: Compile BP_DoorTest
+[2026.02.15-22.27.54:204][580]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2026.02.15-22.27.54:616][601]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.02.15-22.27.54:616][601]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.02.15-22.27.54:616][601]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.02.15-22.27.54:617][601]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.02.15-22.27.54:617][601]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.02.15-22.27.54:617][601]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.02.15-22.27.54:618][601]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.02.15-22.27.54:618][601]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.02.15-22.27.54:619][601]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.02.15-22.27.54:619][601]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.02.15-22.27.56:163][693]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.02.15-22.27.56:171][693]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.02.15-22.27.56:171][693]PIE: New page: PIE session: M_Basic_Map (16 Φεβ 2026, 2:27:56 π.μ.)
+[2026.02.15-22.27.56:171][693]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_M_Basic_Map
+[2026.02.15-22.27.56:172][693]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002358s)
+[2026.02.15-22.27.56:172][693]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/M_Basic_Map.M_Basic_Map to /Game/Maps/UEDPIE_0_M_Basic_Map.M_Basic_Map (0.002392s)
+[2026.02.15-22.27.56:172][693]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2026.02.15-22.27.56:173][693]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2026.02.15-22.27.56:173][693]LogAIModule: Creating AISystem for world M_Basic_Map
+[2026.02.15-22.27.56:174][693]LogPlayLevel: PIE: World Init took: (0.000713s)
+[2026.02.15-22.27.56:195][693]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2026.02.15-22.27.56:197][693]LogAudio: Display: Creating Audio Device:                 Id: 28, Scope: Unique, Realtime: True
+[2026.02.15-22.27.56:197][693]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.02.15-22.27.56:197][693]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.02.15-22.27.56:197][693]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.02.15-22.27.56:197][693]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.02.15-22.27.56:197][693]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.02.15-22.27.56:197][693]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2026.02.15-22.27.56:197][693]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.02.15-22.27.56:197][693]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.02.15-22.27.56:197][693]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.02.15-22.27.56:197][693]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.02.15-22.27.56:197][693]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.02.15-22.27.56:200][693]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.02.15-22.27.56:215][693]LogAudioMixer: Display: Using Audio Hardware Device LG TV SSCR2 (NVIDIA High Definition Audio)
+[2026.02.15-22.27.56:215][693]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.02.15-22.27.56:215][693]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.02.15-22.27.56:215][693]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.02.15-22.27.56:215][693]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=28
+[2026.02.15-22.27.56:215][693]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=28
+[2026.02.15-22.27.56:218][693]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=28
+[2026.02.15-22.27.56:218][693]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=28
+[2026.02.15-22.27.56:218][693]LogInit: FAudioDevice initialized with ID 28.
+[2026.02.15-22.27.56:218][693]LogAudio: Display: Audio Device (ID: 28) registered with world 'M_Basic_Map'.
+[2026.02.15-22.27.56:218][693]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 28
+[2026.02.15-22.27.56:222][693]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.02.15-22.27.56:222][693]LogWorld: Bringing World /Game/Maps/UEDPIE_0_M_Basic_Map.M_Basic_Map up for play (max tick rate 60) at 2026.02.16-00.27.56
+[2026.02.15-22.27.56:222][693]LogWorld: Bringing up level for play took: 0.000950
+[2026.02.15-22.27.56:225][693]LogOnline: OSS: Created online subsystem instance for: :Context_41
+[2026.02.15-22.27.56:229][693]PIE: Server logged in
+[2026.02.15-22.27.56:230][693]PIE: Play in editor total start time 0,061 seconds.
+[2026.02.15-22.27.56:285][693]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.02.15-22.27.56:285][693]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.02.15-22.27.56:286][693]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.02.15-22.27.56:286][693]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.02.15-22.27.56:286][693]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.02.15-22.27.56:286][693]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.02.15-22.27.56:287][693]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.02.15-22.27.56:287][693]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.02.15-22.27.56:288][693]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.02.15-22.27.56:289][693]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.02.15-22.27.56:959][734]LogBlueprintUserMessages: [BP_DoorTest_C_1] Press E to unlcok
+[2026.02.15-22.28.00:543][949]LogBlueprintUserMessages: [BP_DoorTest_C_1] Press E to unlcok
+[2026.02.15-22.28.02:001][ 34]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.15-22.28.02:001][ 34]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_M_Basic_Map
+[2026.02.15-22.28.02:001][ 34]LogWorld: UWorld::CleanupWorld for M_Basic_Map, bSessionEnded=true, bCleanupResources=true
+[2026.02.15-22.28.02:002][ 34]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.15-22.28.02:015][ 34]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.02.15-22.28.02:019][ 34]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.15-22.28.02:038][ 34]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.02.15-22.28.02:039][ 34]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 28
+[2026.02.15-22.28.02:039][ 34]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=28
+[2026.02.15-22.28.02:042][ 34]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=28
+[2026.02.15-22.28.02:046][ 34]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.15-22.28.02:048][ 34]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2026.02.15-22.28.02:076][ 34]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.02.15-22.28.02:076][ 34]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.02.15-22.28.02:076][ 34]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.02.15-22.28.02:077][ 34]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.02.15-22.28.02:077][ 34]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.02.15-22.28.02:078][ 34]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.02.15-22.28.02:078][ 34]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.02.15-22.28.02:078][ 34]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.02.15-22.28.02:079][ 34]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.02.15-22.28.02:079][ 34]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.02.15-22.28.02:088][ 35]LogPlayLevel: Display: Destroying online subsystem :Context_41
+[2026.02.15-22.28.52:036][630]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2026.02.15-22.28.52:055][630]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Maps/M_Basic_Map_Auto5
+[2026.02.15-22.28.52:055][630]LogSavePackage: Moving '../../../../../../Users/Alexander/Documents/GitHub/Exams/Exams/Saved/M_Basic_Map_Auto5786D474B4F6772FDDCB64AA9C5DE4C6E.tmp' to '../../../../../../Users/Alexander/Documents/GitHub/Exams/Exams/Saved/Autosaves/Game/Maps/M_Basic_Map_Auto5.umap'
+[2026.02.15-22.28.52:059][630]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/M_Basic_Map' took 0.045
+[2026.02.15-22.28.52:059][630]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.045
+[2026.02.15-22.28.52:060][630]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Core/Props/BP_DoorTest] ([2] browsable assets)...
+[2026.02.15-22.28.52:084][630]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Core/Props/BP_DoorTest.BP_DoorTest]
+[2026.02.15-22.28.52:084][630]OBJ SavePackage: Finished generating thumbnails for package [/Game/Core/Props/BP_DoorTest]
+[2026.02.15-22.28.52:091][630]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Core/Props/BP_DoorTest_Auto5
+[2026.02.15-22.28.52:091][630]LogSavePackage: Moving '../../../../../../Users/Alexander/Documents/GitHub/Exams/Exams/Saved/BP_DoorTest_Auto5126BE897464FC060AA4B05922329A99C.tmp' to '../../../../../../Users/Alexander/Documents/GitHub/Exams/Exams/Saved/Autosaves/Game/Core/Props/BP_DoorTest_Auto5.uasset'
+[2026.02.15-22.28.52:091][630]LogFileHelpers: Auto-saving content packages took 0.031
