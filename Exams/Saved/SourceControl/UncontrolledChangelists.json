@@ -32,7 +32,15 @@
 				"C:/Users/Alexander/Documents/GitHub/Exams/Exams/Content/ThirdPerson/Maps/ThirdPersonMap_BuiltData.uasset",
 				"C:/Users/Alexander/Documents/GitHub/Exams/Exams/Content/LevelPrototyping/Materials/M_MyMaterial.uasset",
 				"C:/Users/Alexander/Documents/GitHub/Exams/Exams/Content/LevelPrototyping/Materials/MI_MaterialWall.uasset",
-				"C:/Users/Alexander/Documents/GitHub/Exams/Exams/Content/Core/Props/BP_Door_LineTrace.uasset"
+				"C:/Users/Alexander/Documents/GitHub/Exams/Exams/Content/Core/Props/BP_Door_LineTrace.uasset",
+				"C:/Users/Alexander/Documents/GitHub/Exams/Exams/Content/Core/Props/BP_DoorTest.uasset",
+				"C:/Users/Alexander/Documents/GitHub/Exams/Exams/Content/Assets-UnrealHorrorGame/Assets/door/Door.uasset",
+				"C:/Users/Alexander/Documents/GitHub/Exams/Exams/Content/Assets-UnrealHorrorGame/Assets/door/DoorFrame.uasset",
+				"C:/Users/Alexander/Documents/GitHub/Exams/Exams/Content/Assets-UnrealHorrorGame/Assets/door/Door_Door_BaseColor.uasset",
+				"C:/Users/Alexander/Documents/GitHub/Exams/Exams/Content/Assets-UnrealHorrorGame/Assets/door/Door_Door_Normal.uasset",
+				"C:/Users/Alexander/Documents/GitHub/Exams/Exams/Content/Assets-UnrealHorrorGame/Assets/door/Door_Door_OcclusionRoughnessMetallic.uasset",
+				"C:/Users/Alexander/Documents/GitHub/Exams/Exams/Content/Assets-UnrealHorrorGame/Assets/door/02_-_Default.uasset",
+				"C:/Users/Alexander/Documents/GitHub/Exams/Exams/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset"
 			]
 		}
 	]
